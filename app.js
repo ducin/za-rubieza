@@ -43,19 +43,19 @@ function init() {
   // Handle scroll events for back-to-top button
   window.addEventListener('scroll', handleScroll);
   
+  // Initialize filtered episodes
+  state.filteredEpisodes = [...state.episodes];
+  
   // Populate series dropdown
   populateSeriesSelect(series, handleSeriesChangeWithPermalink);
 
   // --- Permalink support for series select ---
   // On page load, set select from hash if present
-  setSeriesSelectFromHash();
+  setSeriesSelectFromHash(); // TODO
   // Listen for hash changes (browser navigation)
   window.addEventListener('hashchange', setSeriesSelectFromHash);
   // --- End permalink support ---
 
-  // Initialize filtered episodes
-  state.filteredEpisodes = [...state.episodes];
-  
   // Calculate total pages
   updateTotalPages();
   
@@ -105,13 +105,18 @@ function handleSeriesChangeWithPermalink() {
 function updateFilters() {
   // Apply filters
   state.filteredEpisodes = state.episodes.filter(episode => {
-    const matchesSearch = state.searchTerm === '' || 
-      episode.title.toLowerCase().includes(state.searchTerm) || 
-      (episode.description && episode.description.toLowerCase().includes(state.searchTerm));
-    
-    const matchesSeries = state.selectedSeries === '' || 
-      episode.series_code === state.selectedSeries;
-    
+    let matchesSearch = true;
+    let matchesSeries = true;
+
+    if (state.searchTerm) {
+      matchesSearch = episode.title.toLowerCase().includes(state.searchTerm) ||
+        (episode.description && episode.description.toLowerCase().includes(state.searchTerm));
+    }
+
+    if (state.selectedSeries) {
+      matchesSeries = episode.series_code === state.selectedSeries;
+    }
+
     return matchesSearch && matchesSeries;
   });
   
