@@ -313,7 +313,7 @@ const episodes = [
   },
   {
     "title": "Jak Ukraina traciła Donbas // Za Rubieżą - 471",
-    "series_code": null,
+    "series": null,
     "description": "Książka tu: https://www.sklep.ha.art.pl/pl/p/Denys-Kazanski-i-Maryna-Worotyncewa-Jak-Ukraina-tracila-Donbas%2C-tlum.-Maciej-Piotrowski/625Kup se książkę: zarubieza.pl/ksiazkaZapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały:https://www.instagram.com/zarubieza/https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/I jeszcze twitter: https://twitter.com/mioszszymaski2Youtube na streamy: https://www.youtube.com/channel/UCFfeJz4jDbVg_dYmCc_xXeAJeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj:https://patronite.pl/miloszszymanskibuycoffee.to/miloszszymanskihttps://suppi.pl/miloszszymanski",
     "date": "2025-02-19",
     "link": "https://open.spotify.com/episode/389SKGt7aUXE6MUefOY3zc",
@@ -1193,7 +1193,7 @@ const episodes = [
   },
   {
     "title": "Ćwierć wieku putina // Za Rubieżą - 374",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Youtube na streamy: https://www.youtube.com/channel/UCFfeJz4jDbVg_dYmCc_xXeA  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2024-03-13",
     "link": "https://open.spotify.com/episode/4DjtiDhei9EdDraXikYBVN",
@@ -1321,7 +1321,7 @@ const episodes = [
   },
   {
     "title": "Co odficowuje nowy rząd Słowacji? // Za Rubieżą - 361",
-    "series_code": null,
+    "series": null,
     "description": "https://open.spotify.com/episode/5sfjW3PKGnN16RNJeXtLp1  Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2024-01-25",
     "link": "https://open.spotify.com/episode/7iP4HstOlHxLgGQRQPaRzC",
@@ -1393,15 +1393,15 @@ const episodes = [
   },
   {
     "title": "Szopka wokół nowej flagi Kirgistanu // Tymczasem w Stanach - 22",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2024-01-12",
     "link": "https://open.spotify.com/episode/7lk83EiZsCgkFn3OoMqlXF",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Wieczna premier Bangladeszu // Za Rubieżą - 357",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2024-01-10",
     "link": "https://open.spotify.com/episode/1eROPPfxg55bpZV94it149",
@@ -1425,11 +1425,11 @@ const episodes = [
   },
   {
     "title": "Nicolas Maduro - El Presidente debil. Historia Wenezueli 6 // Za Rubieżą - 355",
-    "series_code": null,
+    "series": "Historia Wenezueli",
     "description": "Terry Gajraj: https://www.youtube.com/watch?v=u6-uKE6CUmM&ab_channel=TerryGajrajGuyanaBaboo  Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2024-01-03",
     "link": "https://open.spotify.com/episode/67Qo7pHN1u7ejbQWx5TlOl",
-    "series_code": null
+    "series_code": "historia-wenezueli"
   },
   {
     "title": "Skąd się wzięła Słowacja? Historia Słowacji 1 // Za Rubieżą - 354",
@@ -1449,7 +1449,7 @@ const episodes = [
   },
   {
     "title": "Szklana kula 2024 // Za Rubieżą - 353",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-12-30",
     "link": "https://open.spotify.com/episode/6Jh9oPPc9HDotgzAOcv8cH",
@@ -1465,11 +1465,11 @@ const episodes = [
   },
   {
     "title": "Prezydent Hugo Chavez. Historia Wenezueli 5 // Za Rubieżą - 352",
-    "series_code": null,
+    "series": "Historia Wenezueli",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-12-25",
     "link": "https://open.spotify.com/episode/4sXWp3UxPkIb6SNQG3pL0t",
-    "series_code": null
+    "series_code": "historia-wenezueli"
   },
   {
     "title": "666 dni wojny // Ulało mi się - 222",
@@ -1481,15 +1481,15 @@ const episodes = [
   },
   {
     "title": "Rebeliant Hugo Chavez. Historia Wenezueli 4 // Za Rubieżą - 351",
-    "series_code": null,
+    "series": "Historia Wenezueli",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-12-21",
     "link": "https://open.spotify.com/episode/5YCYHMisK3QUnUxx72c4gc",
-    "series_code": null
+    "series_code": "historia-wenezueli"
   },
   {
     "title": "Kiedy będzie standup w Twoim mieście?",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-12-21",
     "link": "https://open.spotify.com/episode/2j8uDxoQCZ8xM0reZAbnuB",
@@ -1505,7 +1505,7 @@ const episodes = [
   },
   {
     "title": "Czy w Serbii cokolwiek się zmieni? Feat. Eryk Gawroński // Za Rubieżą - 350",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-12-18",
     "link": "https://open.spotify.com/episode/0Gr2K2qzlSUBvahtoWRiHE",
@@ -1521,11 +1521,11 @@ const episodes = [
   },
   {
     "title": "Półtora wieku na karuzeli. Historia Wenezueli 3 // Za Rubieżą - 349",
-    "series_code": null,
+    "series": "Historia Wenezueli",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-12-14",
     "link": "https://open.spotify.com/episode/6lvQxad8JmH6J4CWctC6Pz",
-    "series_code": null
+    "series_code": "historia-wenezueli"
   },
   {
     "title": "Na Zachodzie bez zmian // Ulało mi się - 219",
@@ -1537,7 +1537,7 @@ const episodes = [
   },
   {
     "title": "Rewolucja w holenderskiej polityce, feat. Kamil Bałuk // Za Rubieżą - 348",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski  Nasza poprzednia rozmowa: https://open.spotify.com/episode/4gsvq81Tf1VrR4eAMNdNKd",
     "date": "2023-12-10",
     "link": "https://open.spotify.com/episode/31yw5DzmzkXa8RejMvLnNb",
@@ -1553,15 +1553,15 @@ const episodes = [
   },
   {
     "title": "Wielka Kolumbia. Historia Wenezueli 2 // Za Rubieżą - 347",
-    "series_code": null,
+    "series": "Historia Wenezueli",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-12-06",
     "link": "https://open.spotify.com/episode/4iB0TvETlER3tqE0VvZr8D",
-    "series_code": null
+    "series_code": "historia-wenezueli"
   },
   {
     "title": "Zimna wojna na Pacyfiku feat. dr Michał Bogusz // Za Rubieżą - 346",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-12-04",
     "link": "https://open.spotify.com/episode/5xtd16eAG7Linrhxf2NSoW",
@@ -1577,11 +1577,11 @@ const episodes = [
   },
   {
     "title": "Simon Bolivar. Historia Wenezueli 1 // Za Rubieżą - 345",
-    "series_code": null,
+    "series": "Historia Wenezueli",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-11-30",
     "link": "https://open.spotify.com/episode/1KUiG9C0yxAZ3gl7ASIrO7",
-    "series_code": null
+    "series_code": "historia-wenezueli"
   },
   {
     "title": "Izraelska armia znalazła tunel // Ulało mi się - 216",
@@ -1593,11 +1593,11 @@ const episodes = [
   },
   {
     "title": "Maleńki spór w globalnej polityce. Tymczasem w Stanach // Za Rubieżą - 344",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-11-27",
     "link": "https://open.spotify.com/episode/5IhreCxsoikFLFMoOeJ9Uu",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Trwa cicha mobilizacja 400 tysięcy Rosjan, a kanibale wracają do domu // Ulało mi się - 215",
@@ -1609,7 +1609,7 @@ const episodes = [
   },
   {
     "title": "Wielka historia, małego Lubina, feat. Piotr Oleksy. Saga Wolińska 3 // Za Rubieżą - 343",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-11-23",
     "link": "https://open.spotify.com/episode/5NylO141RluY9J77zekYvE",
@@ -1617,7 +1617,7 @@ const episodes = [
   },
   {
     "title": "Wikingowie na Wolinie. Saga Wolińska 2 feat dr Wojciech Filipowiak // Za Rubieża - 342",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-11-20",
     "link": "https://open.spotify.com/episode/3QsKaC7FNIN2fjW4QpmbbN",
@@ -1633,7 +1633,7 @@ const episodes = [
   },
   {
     "title": "Kogo wybierze Argentyna? // W Związku z Powyższym - 009",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-11-18",
     "link": "https://open.spotify.com/episode/29v1nIfg58gD7Ze6VnXiIN",
@@ -1649,7 +1649,7 @@ const episodes = [
   },
   {
     "title": "Wikingowie z Jomsborga. Saga Wolińska 1 // Za Rubieżą - 341",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski  Saga czytana: https://www.youtube.com/watch?v=3XenMUXGx08&ab_channel=MarcinKrzywicki",
     "date": "2023-11-16",
     "link": "https://open.spotify.com/episode/1GX8H3HUPZxHpPDag7xt1l",
@@ -1657,7 +1657,7 @@ const episodes = [
   },
   {
     "title": "Jasser Arafat. Od terrorysty do dyplomaty // Za Rubieżą - 340",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-11-13",
     "link": "https://open.spotify.com/episode/3vfuNuKpHyfzy0BdzJDVV4",
@@ -1673,7 +1673,7 @@ const episodes = [
   },
   {
     "title": "Dżochar Dudajew. Prorok, którego nie posłuchaliśmy // Za Rubieza - 339",
-    "series_code": null,
+    "series": null,
     "description": "Historia Czeczenii: https://open.spotify.com/episode/4NPQwooZzmcLoqeZdi3kip Abubakar:  https://open.spotify.com/episode/2xu4LpU9dNdPvFlR1QXdb6 Wywiad: https://www.youtube.com/watch?v=qcUibm_P4lc&t=2378s&ab_channel=P%C4%93terisKrusti%C5%86%C5%A1  Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-11-10",
     "link": "https://open.spotify.com/episode/1QHCCCEeD9SWkzLQ7TioPK",
@@ -1705,7 +1705,7 @@ const episodes = [
   },
   {
     "title": "Walerij Załużny - Współczesna wojna pozycyjna i jak ją wygrać",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-11-05",
     "link": "https://open.spotify.com/episode/4Zjw3ix40W7eXawPZ2Knta",
@@ -1713,7 +1713,7 @@ const episodes = [
   },
   {
     "title": "Jak zniknął milion Paragwajczyków? // Za Rubieżą - 337",
-    "series_code": null,
+    "series": null,
     "description": "https://open.spotify.com/episode/1bz69pcaicvStHWglF7tJA  https://www.ine.gov.py/censo2022/documentos/Revista_Censo%202022.pdf  Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-11-02",
     "link": "https://open.spotify.com/episode/5MGlaXdJVHXZ3mjwN171c2",
@@ -1769,7 +1769,7 @@ const episodes = [
   },
   {
     "title": "Jaki będzie Izrael po wojnie? Feat. Karolina Zielińska // Za Rubieżą - 334",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-10-23",
     "link": "https://open.spotify.com/episode/45R3uHZHs63AgcvlIeJCmA",
@@ -1785,7 +1785,7 @@ const episodes = [
   },
   {
     "title": "Podział Indii // Za Rubieżą - 333",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-10-20",
     "link": "https://open.spotify.com/episode/1zI50OePmCA2yO2P97obA9",
@@ -1817,7 +1817,7 @@ const episodes = [
   },
   {
     "title": "Uciekinierzy do Korei Północnej // Za Rubieżą - 332",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-10-16",
     "link": "https://open.spotify.com/episode/24kjJ1kwv8Pz3TidCxYI8M",
@@ -1833,7 +1833,7 @@ const episodes = [
   },
   {
     "title": "Polityka zagraniczna w programach polskich partii politycznych // Za Rubieżą - 331",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-10-12",
     "link": "https://open.spotify.com/episode/3LXqBqGznFzCmv9DuJYUQk",
@@ -1849,11 +1849,11 @@ const episodes = [
   },
   {
     "title": "Kolejna wojna Izraela // Za Rubieżą - 330",
-    "series_code": null,
+    "series": "Historia Izraela",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-10-09",
     "link": "https://open.spotify.com/episode/22JgrQN0jxbOIUj060aAUq",
-    "series_code": null
+    "series_code": "historia-izraela"
   },
   {
     "title": "Neom. Seria Architektoniczna 3 // Za Rubieżą - 329",
@@ -1873,15 +1873,15 @@ const episodes = [
   },
   {
     "title": "Muhammad bin Salman. Historia Arabii 4 // Za Rubieżą - 328",
-    "series_code": null,
+    "series": "Historia Arabii",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-10-02",
     "link": "https://open.spotify.com/episode/1ORbqMZWNhCCnhhkNjvgZj",
-    "series_code": null
+    "series_code": "historia-arabii"
   },
   {
     "title": "Wyniki wyborów na Słowacji // W związku z powyższym - 008",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-10-02",
     "link": "https://open.spotify.com/episode/4ZYXEdTcKLFUQiRMcdb84R",
@@ -1897,7 +1897,7 @@ const episodes = [
   },
   {
     "title": "Co czeka Słowację? // Za Rubieżą - 327",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-09-27",
     "link": "https://open.spotify.com/episode/5sfjW3PKGnN16RNJeXtLp1",
@@ -1937,19 +1937,19 @@ const episodes = [
   },
   {
     "title": "Gerontokracja braci Saudów. Historia Arabii 3 // Za Rubieżą - 326",
-    "series_code": null,
+    "series": "Historia Arabii",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-09-17",
     "link": "https://open.spotify.com/episode/0RXtCymUZ4EljJPJBJGH4K",
-    "series_code": null
+    "series_code": "historia-arabii"
   },
   {
     "title": "Gdy petrodolary zalały Saudów. Historia Arabii 2 // Za Rubieżą - 325",
-    "series_code": null,
+    "series": "Historia Arabii",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-09-10",
     "link": "https://open.spotify.com/episode/4DW3aHk6Ecn5CWOMg7fgOP",
-    "series_code": null
+    "series_code": "historia-arabii"
   },
   {
     "title": "Reznikow spadł z rowerka // Ulało mi się - 193",
@@ -1961,15 +1961,15 @@ const episodes = [
   },
   {
     "title": "Skąd się wzięła Arabia Saudyjska? Historia Arabii 1 // Za Rubieżą - 324",
-    "series_code": null,
+    "series": "Historia Arabii",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-09-04",
     "link": "https://open.spotify.com/episode/5aBzMVR2rgGuE6Fx3jyGtr",
-    "series_code": null
+    "series_code": "historia-arabii"
   },
   {
     "title": "Azerska blokada Karabachu feat. Agnieszka Filipiak // Za Rubieżą - 323",
-    "series_code": null,
+    "series": null,
     "description": "Newsletter Agnieszki Filipiak: https://agfilipiak.substack.com/  Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-08-30",
     "link": "https://open.spotify.com/episode/1KW2WGE3hRHTT0PhCWIxHJ",
@@ -1993,7 +1993,7 @@ const episodes = [
   },
   {
     "title": "Jak II RP szukała kolonii. Kolonializm po polsku 4 // Za Rubieżą - 322",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-08-27",
     "link": "https://open.spotify.com/episode/606W0tyRPf5r0xQqtsawG1",
@@ -2017,7 +2017,7 @@ const episodes = [
   },
   {
     "title": "Javier Milei potrząsnął Argentyną // Za Rubieżą - 321",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-08-24",
     "link": "https://open.spotify.com/episode/1j3nBVRMt9peACaDKYOdJi",
@@ -2033,7 +2033,7 @@ const episodes = [
   },
   {
     "title": "Liga Morska i Kolonialna. Kolonializm po polsku 3 // Za Rubieżą - 320",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-08-21",
     "link": "https://open.spotify.com/episode/5gv5Zmjp9y27w1HZkeCfcC",
@@ -2057,7 +2057,7 @@ const episodes = [
   },
   {
     "title": "Nayib Bukele, najfajnieszy dyktator świata // Za Rubieżą - 319",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-08-16",
     "link": "https://open.spotify.com/episode/3FJtx1MEoqNi2KpZVKvpgB",
@@ -2073,7 +2073,7 @@ const episodes = [
   },
   {
     "title": "Wyprawa do Kamerunu. Kolonializm po polsku 2 // Za Rubieżą - 318",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-08-13",
     "link": "https://open.spotify.com/episode/4Hsvyke3tbKi1xaIkOLAkP",
@@ -2081,7 +2081,7 @@ const episodes = [
   },
   {
     "title": "Zamach stanu w Nigrze // Za Rubieżą - 317",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-08-10",
     "link": "https://open.spotify.com/episode/096vQzYETtIwyvGALpmG1Q",
@@ -2105,7 +2105,7 @@ const episodes = [
   },
   {
     "title": "Mikroimperium kolonialne. Kolonializm po polsku 1 // Za Rubieżą - 316",
-    "series_code": null,
+    "series": null,
     "description": "https://www.youtube.com/watch?v=enYdAxVcNZA&ab_channel=MarcRebillet  Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-08-07",
     "link": "https://open.spotify.com/episode/1yeTvNvwqSBuPooPns2bcx",
@@ -2145,7 +2145,7 @@ const episodes = [
   },
   {
     "title": "Wnuki Stalina // Za Rubieżą - 314",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-07-31",
     "link": "https://open.spotify.com/episode/75sW74cVId7aZiJQvjlNso",
@@ -2169,7 +2169,7 @@ const episodes = [
   },
   {
     "title": "Cyfrowa inwigilacja w Chinach // Za Rubieżą - 313",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-07-27",
     "link": "https://open.spotify.com/episode/1YwY48eEGjNpnYwyohOJza",
@@ -2185,7 +2185,7 @@ const episodes = [
   },
   {
     "title": "Dzieci Stalina // Za Rubieżą - 312",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-07-24",
     "link": "https://open.spotify.com/episode/6pz8MDjzTa7PDS8HTE5GZB",
@@ -2201,7 +2201,7 @@ const episodes = [
   },
   {
     "title": "Zamach Stanu w Turcji // Za Rubieżą - 311",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-07-19",
     "link": "https://open.spotify.com/episode/75Sm5lVSw7kxGVJURbXMcI",
@@ -2225,7 +2225,7 @@ const episodes = [
   },
   {
     "title": "Czy II RP mogła powstrzymać Hitlera? Feat. Wojenne Historie // Za Rubieżą - 310",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-07-16",
     "link": "https://open.spotify.com/episode/5YVslOTlvoKPItf9AwzWmN",
@@ -2249,7 +2249,7 @@ const episodes = [
   },
   {
     "title": "Jak Brytyjczycy zniszczyli Tasmanię // Za Rubieżą - 309",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-07-12",
     "link": "https://open.spotify.com/episode/6cIbczlh0id6ZfazKdETCA",
@@ -2273,15 +2273,15 @@ const episodes = [
   },
   {
     "title": "Głosowanie na prezydenta Uzbekistanu // Tymczasem w Stanach - 021",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-07-10",
     "link": "https://open.spotify.com/episode/6ibtJRGGqPUpzHgX0iZbON",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Zambijski program kosmiczny feat. Bartek Sabela // Za Rubieżą - 308",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-07-09",
     "link": "https://open.spotify.com/episode/4mPa0npNtkrZT7GxsDt52w",
@@ -2321,11 +2321,11 @@ const episodes = [
   },
   {
     "title": "Czy Kim Yo-Jong przejmie rodzinny biznes? Historia Korei 11 // Za Rubieżą - 306",
-    "series_code": null,
+    "series": "Historia Korei",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-07-03",
     "link": "https://open.spotify.com/episode/4xCpReHKzKz5W124dtWD8n",
-    "series_code": null
+    "series_code": "historia-korei"
   },
   {
     "title": "Kacapska propaganda wymazuje Prigożyna // Ulało mi się - 166",
@@ -2345,7 +2345,7 @@ const episodes = [
   },
   {
     "title": "Co będzie z tą Turcją? Feat. Miłosz Wieczorek // Za Rubieżą - 305",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski  Insta Miłosza: https://www.instagram.com/wieczorek_orientalny/",
     "date": "2023-06-30",
     "link": "https://open.spotify.com/episode/2lAHM3GTaoM0UUH9VRrJjg",
@@ -2361,11 +2361,11 @@ const episodes = [
   },
   {
     "title": "Kim Dzong-Un. Historia Korei - 10 // Za Rubieżą - 304",
-    "series_code": null,
+    "series": "Historia Korei",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-06-26",
     "link": "https://open.spotify.com/episode/2OMLWY3uPD7p9ml1wAI45v",
-    "series_code": null
+    "series_code": "historia-korei"
   },
   {
     "title": "Co oznacza przegrana Prigożyna? // Ulało mi się - 163",
@@ -2385,7 +2385,7 @@ const episodes = [
   },
   {
     "title": "putin wygłosił orędzie do Rosjan w związku z rebelią Prigożyna // Za Rubieżą - 161",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-06-24",
     "link": "https://open.spotify.com/episode/0ighLgXiN2sUNDdbTelIoH",
@@ -2409,7 +2409,7 @@ const episodes = [
   },
   {
     "title": "Mądre matki, dobre żony w Korei Południowej, feat. Małgorzata Sidz // Za Rubieżą - 303",
-    "series_code": null,
+    "series": null,
     "description": "https://www.proszynski.pl/product/madre-matki-dobre-zony-kobiety-w-korei-poludniowej Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-06-21",
     "link": "https://open.spotify.com/episode/1taOBLSiTI41ZUxm4BeK9G",
@@ -2433,11 +2433,11 @@ const episodes = [
   },
   {
     "title": "Kim Dzong Il. Historia Korei 9 // Za Rubieżą - 302",
-    "series_code": null,
+    "series": "Historia Korei",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-06-18",
     "link": "https://open.spotify.com/episode/06ElnrDYduR70gWYWandKC",
-    "series_code": null
+    "series_code": "historia-korei"
   },
   {
     "title": "Cuda-wianki na forum ekonomicznym w Petersburgu // Ulało mi się - 157",
@@ -2449,7 +2449,7 @@ const episodes = [
   },
   {
     "title": "Czarna dziewczyna z Pjongjangu - Monica Macias // Za Rubieżą - 301",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-06-15",
     "link": "https://open.spotify.com/episode/3VF7SoSt4Y9kJcf6LPNvMr",
@@ -2473,7 +2473,7 @@ const episodes = [
   },
   {
     "title": "Jubileuszowe PiO // Za Rubieżą - 300",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-06-11",
     "link": "https://open.spotify.com/episode/4BC8buxPfPpJ0R5sSV2F10",
@@ -2497,7 +2497,7 @@ const episodes = [
   },
   {
     "title": "Od zbrodniarza, do gościa na salonach - Teodoro Obiang Nguema // Za Rubieżą - 299",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-06-07",
     "link": "https://open.spotify.com/episode/3fmQpQJ3G315SrMH1to70H",
@@ -2513,11 +2513,11 @@ const episodes = [
   },
   {
     "title": "Kim Ir Sen. Historia Korei 8 // Za Rubieżą - 298",
-    "series_code": null,
+    "series": "Historia Korei",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-06-05",
     "link": "https://open.spotify.com/episode/2MQGqTzYoMtiZEGvj30wOo",
-    "series_code": null
+    "series_code": "historia-korei"
   },
   {
     "title": "Scholtz wybuchł gniewem // Ulało mi się - 151",
@@ -2545,7 +2545,7 @@ const episodes = [
   },
   {
     "title": "Najohydniejszy dyktator w historii - Francisco Macias Nguema // Za Rubieżą - 297",
-    "series_code": null,
+    "series": null,
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-05-31",
     "link": "https://open.spotify.com/episode/2yE5jLKBZqTcWnBv0qZJXN",
@@ -2569,11 +2569,11 @@ const episodes = [
   },
   {
     "title": "Trzy dekady dyktatury. Historia Korei 7 // Za Rubieżą - 296",
-    "series_code": null,
+    "series": "Historia Korei",
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-05-28",
     "link": "https://open.spotify.com/episode/1bKb8djZe59iwzRvB3K7Fe",
-    "series_code": null
+    "series_code": "historia-korei"
   },
   {
     "title": "Dlaczego Erdogan wygrywa od 20 lat? feat. Altuğ Yılmaz // Relacja z Turcji - 5",
@@ -2593,7 +2593,7 @@ const episodes = [
   },
   {
     "title": "Dokąd zmierza Gruzja? feat. Agnieszka Filipiak // Za Rubieżą - 295",
-    "series_code": null,
+    "series": null,
     "description": "https://agfilipiak.substack.com/  Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-05-24",
     "link": "https://open.spotify.com/episode/5rUT7MurGewQoujlyS3fJ8",
@@ -2609,11 +2609,11 @@ const episodes = [
   },
   {
     "title": "Republika Korei. Historia Korei 6 // Za Rubieżą - 294",
-    "series_code": null,
+    "series": "Historia Korei",
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-05-22",
     "link": "https://open.spotify.com/episode/5ftuzgbY6NJjvpHkYtbLdB",
-    "series_code": null
+    "series_code": "historia-korei"
   },
   {
     "title": "Atak Rosjan na Rosję // Ulało mi się - 144",
@@ -2641,15 +2641,15 @@ const episodes = [
   },
   {
     "title": "Szczyt Chiny - Azja Centralna // Tymczasem w Stanach - 020",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-05-20",
     "link": "https://open.spotify.com/episode/2JYGzogFFxKL4wh97CqDCA",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Wybory w Gagauzji, koń trojański Moskwy w Mołdawii // Za Rubieżą - 293",
-    "series_code": null,
+    "series": null,
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-05-18",
     "link": "https://open.spotify.com/episode/7aSa8I5Ebgfw0Fuuqtigph",
@@ -2665,11 +2665,11 @@ const episodes = [
   },
   {
     "title": "Wojna koreańska // Historia Korei - 5",
-    "series_code": null,
+    "series": "Historia Korei",
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-05-16",
     "link": "https://open.spotify.com/episode/0NKgzY327sd088qOUByssq",
-    "series_code": null
+    "series_code": "historia-korei"
   },
   {
     "title": "Komentarz powyborczy // Relacja z Turcji - 4",
@@ -2697,7 +2697,7 @@ const episodes = [
   },
   {
     "title": "Epoka Erdogana, feat. Mateusz Chudziak // Za Rubieżą - 291",
-    "series_code": null,
+    "series": null,
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-05-11",
     "link": "https://open.spotify.com/episode/4Boi3Ng6PdJ7DtwSLktB80",
@@ -2721,11 +2721,11 @@ const episodes = [
   },
   {
     "title": "Jak powstała Korea Północna? Historia Korei 4 // Za Rubieżą - 290",
-    "series_code": null,
+    "series": "Historia Korei",
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-05-08",
     "link": "https://open.spotify.com/episode/2iGdgToYQcet5YPjANUOOj",
-    "series_code": null
+    "series_code": "historia-korei"
   },
   {
     "title": "Prigożyn znowu robi dramę // Ulało mi się - 139",
@@ -2737,7 +2737,7 @@ const episodes = [
   },
   {
     "title": "Historia ośmiogodzinnego dnia pracy // Za Rubieżą - 289",
-    "series_code": null,
+    "series": null,
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-05-04",
     "link": "https://open.spotify.com/episode/7By2Y9HJaCPT8dgFpbPDXq",
@@ -2761,19 +2761,19 @@ const episodes = [
   },
   {
     "title": "Jak powstała Korea Południowa? Historia Korei 3 // Za Rubieżą - 288",
-    "series_code": null,
+    "series": "Historia Korei",
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-05-01",
     "link": "https://open.spotify.com/episode/6y75542jriYDDXOSouQVIu",
-    "series_code": null
+    "series_code": "historia-korei"
   },
   {
     "title": "Po co Uzbekistanowi nowa konstytucja? // Tymczasem w Stanach - 019",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-04-29",
     "link": "https://open.spotify.com/episode/152Qk7mhnernxjHAJEqyXO",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Rosja znów ostrzeliwuje cele cywilne // Ulało mi się - 136",
@@ -2785,7 +2785,7 @@ const episodes = [
   },
   {
     "title": "Nusantara - nowa stolica Indonezji // Za Rubieżą - 287",
-    "series_code": null,
+    "series": null,
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-04-27",
     "link": "https://open.spotify.com/episode/5N89y7fVkFoLOV8I2ZCYUM",
@@ -2801,11 +2801,11 @@ const episodes = [
   },
   {
     "title": "Japońska kolonizacja Korei. Historia Korei - 2 // Za Rubieżą - 286",
-    "series_code": null,
+    "series": "Historia Korei",
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski  Odcinek o Pocieszycielkach: https://open.spotify.com/episode/1kLYznFIQMlHXHKv24j5YF",
     "date": "2023-04-24",
     "link": "https://open.spotify.com/episode/4upEVWN8aqMwuK6nDgKLQK",
-    "series_code": null
+    "series_code": "historia-korei"
   },
   {
     "title": "Rosja bombarduje się sama // Ulało mi się - 134",
@@ -2825,7 +2825,7 @@ const episodes = [
   },
   {
     "title": "Biografia złego człowieka: Prigożyn // Za Rubieżą - 285",
-    "series_code": null,
+    "series": null,
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-04-20",
     "link": "https://open.spotify.com/episode/1bbWq3lQhG5UywJUFypI5Y",
@@ -2841,15 +2841,15 @@ const episodes = [
   },
   {
     "title": "Wielkie Cesarstwo Korei. Historia Korei 1 // Za Rubieżą - 284",
-    "series_code": null,
+    "series": "Historia Korei",
     "description": "Kup se książkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-04-17",
     "link": "https://open.spotify.com/episode/7DX3rIX0IZsbCD4Tc4ZWEe",
-    "series_code": null
+    "series_code": "historia-korei"
   },
   {
     "title": "Ile się zarabia, a ile wydaje w Mołdawii? // Odcinek Specjalny - 20",
-    "series_code": null,
+    "series": null,
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-04-16",
     "link": "https://open.spotify.com/episode/5RxWVGTli4lc7vOldAHCl3",
@@ -2865,7 +2865,7 @@ const episodes = [
   },
   {
     "title": "Idi Amin Dada // Za Rubieżą - 283",
-    "series_code": null,
+    "series": null,
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-04-13",
     "link": "https://open.spotify.com/episode/1lTix8UTWhR8xe4tyXDm1N",
@@ -2881,7 +2881,7 @@ const episodes = [
   },
   {
     "title": "Kto zgasi światło? // Za Rubieżą - 282",
-    "series_code": null,
+    "series": null,
     "description": "Kup se ksiazkę: zarubieza.pl/ksiazka Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-04-10",
     "link": "https://open.spotify.com/episode/0vv9asBP5ZhZ2gE8kXDkWg",
@@ -2889,7 +2889,7 @@ const episodes = [
   },
   {
     "title": "Co o putinie powiedział zbiegły agent Federalnej Służby Ochrony? // Odcinek specjalny - 19",
-    "series_code": null,
+    "series": null,
     "description": "https://www.youtube.com/watch?v=UcHuFGKa3jg&t=203s&ab_channel=varlamov  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-04-08",
     "link": "https://open.spotify.com/episode/64V1UoLnAelja7LE9aKJtO",
@@ -2905,7 +2905,7 @@ const episodes = [
   },
   {
     "title": "Historia stosunków polsko-ukraińskich feat. Michał Potocki // Za Rubieżą - 281",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-04-05",
     "link": "https://open.spotify.com/episode/4Vlb9xNAskAOaV9G19c0Qs",
@@ -2921,7 +2921,7 @@ const episodes = [
   },
   {
     "title": "Zwycięstwo w remisie i kompromisie, czyli wybory w Finlandii // Za Rubieżą - 280",
-    "series_code": null,
+    "series": null,
     "description": "Moje rozmowy z konsulem Stefanem Widomskim: https://open.spotify.com/episode/0aikCn77IPWuWKxZMcRR9H https://open.spotify.com/episode/6WjvyBpO02W4hBko4CKuEE https://open.spotify.com/episode/51AqGeoPGy7ZyivKSBYLHn  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-04-02",
     "link": "https://open.spotify.com/episode/1vlDJeWZtB5x3ce4VBK3ym",
@@ -2937,7 +2937,7 @@ const episodes = [
   },
   {
     "title": "Piąte wybory w 2 lata w Bułgarii // Za Rubieżą - 279",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-03-30",
     "link": "https://open.spotify.com/episode/07I6CysOaMT1WtLgCbc7nG",
@@ -2961,11 +2961,11 @@ const episodes = [
   },
   {
     "title": "Głosy komunistycznej Albanii feat. Małgorzata Rejmer. Historia Albanii - 5 // Za Rubieżą - 278",
-    "series_code": null,
+    "series": "Historia Albanii",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-03-27",
     "link": "https://open.spotify.com/episode/5HU0FEjDe5pU5L6jKhZU6v",
-    "series_code": null
+    "series_code": "historia-albanii"
   },
   {
     "title": "George F. Kennan - Długi szyfrogram // Zrozumieć Rosję - 13",
@@ -2977,15 +2977,15 @@ const episodes = [
   },
   {
     "title": "Król Zog, historia Albanii - 4 // Za Rubieżą - 277",
-    "series_code": null,
+    "series": "Historia Albanii",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-03-23",
     "link": "https://open.spotify.com/episode/3uQt9dRyIAoAtu4grJDyJO",
-    "series_code": null
+    "series_code": "historia-albanii"
   },
   {
     "title": "Kryzys gazowy w Mołdawii, feat. Maciej Woźniak // Odcinek Specjalny - 21",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-03-22",
     "link": "https://open.spotify.com/episode/4otjxI575Mc9Z2OPaeNf7g",
@@ -3001,11 +3001,11 @@ const episodes = [
   },
   {
     "title": "Osmańska Albania, historia Albanii 3 // Za Rubieżą - 276",
-    "series_code": null,
+    "series": "Historia Albanii",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-03-19",
     "link": "https://open.spotify.com/episode/32GlWpCQN0fauE4kTuxeM0",
-    "series_code": null
+    "series_code": "historia-albanii"
   },
   {
     "title": "Czy to już druga fala mobilizacji w Rosji? // Ulało mi się - 123",
@@ -3017,19 +3017,19 @@ const episodes = [
   },
   {
     "title": "Skanderbeg, największy gigaczad Albanii, Historia Albanii - 2 // Za Rubieżą - 275",
-    "series_code": null,
+    "series": "Historia Albanii",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-03-15",
     "link": "https://open.spotify.com/episode/1JBOSv3gfvdMpkdMOSyXmz",
-    "series_code": null
+    "series_code": "historia-albanii"
   },
   {
     "title": "Po co są wybory parlamentarne w Kazachstanie? // Tymczasem w Stanach - 018",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-03-14",
     "link": "https://open.spotify.com/episode/2glTb97X4ifv4uRJRy82e8",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Nawalny dostał Oscara // Ulało mi się - 122",
@@ -3041,11 +3041,11 @@ const episodes = [
   },
   {
     "title": "Skąd się wzięła Albania? Historia Albanii - 1 // Za Rubieżą 274",
-    "series_code": null,
+    "series": "Historia Albanii",
     "description": "https://www.instagram.com/siri_wygeneruj_polske/ https://www.facebook.com/profile.php?id=100064112859186  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-03-12",
     "link": "https://open.spotify.com/episode/1jKwl9HyZfxORZqelNIAeH",
-    "series_code": null
+    "series_code": "historia-albanii"
   },
   {
     "title": "W co gra Prigożyn? // Ulało mi się - 121",
@@ -3073,7 +3073,7 @@ const episodes = [
   },
   {
     "title": "Gwardia Wareska, czyli jak Wikingowie uratowali Bizancjum // Za Rubieżą - 273",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski  https://blog.viasathistory.pl/show/cykl-wiosna-z-wikingami/",
     "date": "2023-03-09",
     "link": "https://open.spotify.com/episode/36yceNQXDGFx4zq459hdaz",
@@ -3089,7 +3089,7 @@ const episodes = [
   },
   {
     "title": "Co się dzieje w Serbii? Feat. Eryk Gawroński // Za Rubieżą - 272",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-03-06",
     "link": "https://open.spotify.com/episode/5frLSn3M3xKzXB8OxEHj5r",
@@ -3097,11 +3097,11 @@ const episodes = [
   },
   {
     "title": "Szczyt Stany-Stany, wizyta Blinkena w Azji Centralnej // Tymczasem w Stanach - 017",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-03-04",
     "link": "https://open.spotify.com/episode/36WvVkuzO4t13AeDxtL5kX",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Mołdawia uznaje język rumuński jako urzędowy // W związku z powyższym - 006",
@@ -3121,7 +3121,7 @@ const episodes = [
   },
   {
     "title": "Sentinel Północny // Za Rubieżą - 271",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-03-01",
     "link": "https://open.spotify.com/episode/4C0s60IYgzSno6sJmxS5Db",
@@ -3137,11 +3137,11 @@ const episodes = [
   },
   {
     "title": "Wojna Iracko-Irańska, Historia Iranu - 4 // Za Rubieżą - 270",
-    "series_code": null,
+    "series": "Historia Iranu",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-27",
     "link": "https://open.spotify.com/episode/5QviRWUZ5zrc3Jtawqom4H",
-    "series_code": null
+    "series_code": "historia-iranu"
   },
   {
     "title": "Chiński plan na zwycięstwo Rosji // Ulało mi się - 117",
@@ -3161,7 +3161,7 @@ const episodes = [
   },
   {
     "title": "Rok wojny. Wojenne P i O",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-24",
     "link": "https://open.spotify.com/episode/2wbpQaK6OiHIQ17TmV5sDG",
@@ -3169,7 +3169,7 @@ const episodes = [
   },
   {
     "title": "Rok wojny we Lwowie, feat. Katarzyna Łoza // Za Rubieżą - 269",
-    "series_code": null,
+    "series": null,
     "description": "Fot. Katarzyna Łoza. Tekst: https://www.miesiecznik.znak.com.pl/ukraina-walczaca/ Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-22",
     "link": "https://open.spotify.com/episode/1UuTLf2cjZiGC74ChzuhA9",
@@ -3185,7 +3185,7 @@ const episodes = [
   },
   {
     "title": "Jak Ukraińcy stawiają opór? Feat. Paweł Pieniążek // Za Rubieżą - 268",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-20",
     "link": "https://open.spotify.com/episode/5C3LZ91pKehqVRdnGasJMr",
@@ -3201,7 +3201,7 @@ const episodes = [
   },
   {
     "title": "Opowieść z irańskiego więzienia // Sepideh Qolian - 4",
-    "series_code": null,
+    "series": null,
     "description": "Książka po angielsku tutaj: https://iranwire.com/en/features/67382/  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-18",
     "link": "https://open.spotify.com/episode/3dP44B7IUC4kI10d4SxG8u",
@@ -3209,7 +3209,7 @@ const episodes = [
   },
   {
     "title": "Opowieść z irańskiego więzienia // Sepideh Qolian - 3",
-    "series_code": null,
+    "series": null,
     "description": "Książka po angielsku tutaj: https://iranwire.com/en/features/67382/  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-17",
     "link": "https://open.spotify.com/episode/2ldnnbZSCaMpOwovHB5hEZ",
@@ -3217,7 +3217,7 @@ const episodes = [
   },
   {
     "title": "Opowieść z irańskiego więzienia // Sepideh Qolian - 2",
-    "series_code": null,
+    "series": null,
     "description": "Książka po angielsku tutaj: https://iranwire.com/en/features/67382/  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2 Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-16",
     "link": "https://open.spotify.com/episode/6qbBMjEyw1dLGSZ3XutlVR",
@@ -3225,11 +3225,11 @@ const episodes = [
   },
   {
     "title": "Opowieść z irańskiego więzienia // Sepideh Qolian - 1",
-    "series_code": null,
+    "series": null,
     "description": "Książka po angielsku tutaj: https://iranwire.com/en/features/67382/  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-15",
     "link": "https://open.spotify.com/episode/6a6oRBdHPt63RccJyPhFZg",
-    "series_code": null
+    "series_code": "series_code": "historia-iranu"
   },
   {
     "title": "Największy od dawna sukces orków // Ulało mi się - 114",
@@ -3241,7 +3241,7 @@ const episodes = [
   },
   {
     "title": "Ruhollah Chomejni i rewolucja islamska // Za Rubieżą - 267",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-12",
     "link": "https://open.spotify.com/episode/2MSdnL9LiEpiwVrMM3c3Xz",
@@ -3273,7 +3273,7 @@ const episodes = [
   },
   {
     "title": "Dlaczego Irańczycy nie kochali szacha Muhammada Rezy? Feat. Urszula Pytkowska-Jakimczyk // Za Rubieżą - 266",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-09",
     "link": "https://open.spotify.com/episode/3xVh4o3D5hrbLkBqXOfKuK",
@@ -3297,11 +3297,11 @@ const episodes = [
   },
   {
     "title": "Niemiła niespodzianka dla Szacha, Historia Iranu - 1 // Za Rubieżą - 265",
-    "series_code": null,
+    "series": "Historia Iranu",
     "description": "A propos filmów o oszustwach: https://blog.viasathistory.pl/show/najwieksze-oszustwa-ii-wojny-swiatowej/  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-05",
     "link": "https://open.spotify.com/episode/7A7cfTls8GaVR7JLlFOCPH",
-    "series_code": null
+    "series_code": "historia-iranu"
   },
   {
     "title": "Kiedy umarła demokracja w Rosji? // Zrozumieć Rosję - 10",
@@ -3321,7 +3321,7 @@ const episodes = [
   },
   {
     "title": "Jak Estończycy przetrwali bez własnego państwa? // Za Rubieżą - 264",
-    "series_code": null,
+    "series": null,
     "description": "Audycja Renaty: https://www.facebook.com/audycjatrzysiostry Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-02",
     "link": "https://open.spotify.com/episode/4FUyOsgJT0NJlBV0HD6yb5",
@@ -3377,7 +3377,7 @@ const episodes = [
   },
   {
     "title": "Kolejny sukces Komunistycznej Partii Chin, feat. Michał Bogusz // Za Rubieżą - 262",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-01-26",
     "link": "https://open.spotify.com/episode/15wfgbktohAMrtQcEbOzqW",
@@ -3385,7 +3385,7 @@ const episodes = [
   },
   {
     "title": "Biografia Wołodymyra Zełenskiego // Odcinek Specjalny - 016",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-01-25",
     "link": "https://open.spotify.com/episode/2LlV47Fr1Ic9zxcNqWlS9b",
@@ -3417,11 +3417,11 @@ const episodes = [
   },
   {
     "title": "Rosyjski imperializm a budowa tożsamości w Kazachstanie, feat. Assel Sagimbek // Tymczasem w Stanach - 016",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "MetaQazaqstan: https://open.spotify.com/show/5a3zwGFTCoEw9z3UP6WiUk?si=d28bfa3c897e4438 https://www.instagram.com/metaqazaqstan_podcast/  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-01-22",
     "link": "https://open.spotify.com/episode/25SBOWodL0v2RqgBPIGvex",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Niemcy nie dadzą Leopardów // Ulało mi się - 104",
@@ -3433,7 +3433,7 @@ const episodes = [
   },
   {
     "title": "Jak Orban putinizuje Węgry? feat. Andrzej Sadecki // Za Rubieżą - 260",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-01-19",
     "link": "https://open.spotify.com/episode/6nAH7CnFgOXmYhHc0yOJeP",
@@ -3481,7 +3481,7 @@ const episodes = [
   },
   {
     "title": "Nowy, ultraprawicowy rząd Izraela feat. Karolina Zielińska // Za Rubieżą - 258",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-01-12",
     "link": "https://open.spotify.com/episode/2LOlov8ol8Gq0lARXNbD8p",
@@ -3529,7 +3529,7 @@ const episodes = [
   },
   {
     "title": "Nasz rosyjski kompleks - Andrius Kubilius // Odcinek Specjalny - 11",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski  https://lithuaniatribune.com/our-russian-psychological-complexes/",
     "date": "2023-01-06",
     "link": "https://open.spotify.com/episode/7LYpLN23mqmmJ85DfGbO92",
@@ -3537,7 +3537,7 @@ const episodes = [
   },
   {
     "title": "Tunezyjska demokracja umiera. feat Jan Wysocki // Za Rubieżą - 256",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-01-05",
     "link": "https://open.spotify.com/episode/5AZZ68EJmrKVQ2NruOMG0G",
@@ -3561,7 +3561,7 @@ const episodes = [
   },
   {
     "title": "Co się wydarzy w 2023 roku? // Odcinek specjalny - 10",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-01-02",
     "link": "https://open.spotify.com/episode/6PQAKIfRCofxSwmf9WusGz",
@@ -3577,7 +3577,7 @@ const episodes = [
   },
   {
     "title": "Born & Raised under putin, how do they think? // Understanding Russia - 08",
-    "series_code": null,
+    "series": null,
     "description": "https://www.youtube.com/@ZacktheRussian  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-30",
     "link": "https://open.spotify.com/episode/5lY68ZRmkM0zsmP9PjikOd",
@@ -3585,7 +3585,7 @@ const episodes = [
   },
   {
     "title": "Powstanie wielkopolskie // Za Rubieżą - 254",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-29",
     "link": "https://open.spotify.com/episode/7laczft407wltALZo3U8R3",
@@ -3601,7 +3601,7 @@ const episodes = [
   },
   {
     "title": "Odcinek specjalny, podsumowanie roku 2022 // Za Rubieżą - 253",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-26",
     "link": "https://open.spotify.com/episode/4VRAbfQBPCyfg62RNyZeIO",
@@ -3617,7 +3617,7 @@ const episodes = [
   },
   {
     "title": "Historia butów na obcasie // Za Rubieżą - 252",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-22",
     "link": "https://open.spotify.com/episode/2Tv0R0IQNsrVujShXDqxxT",
@@ -3625,11 +3625,11 @@ const episodes = [
   },
   {
     "title": "Wojny o wodę w Azji Centralnej feat. Andrzej Szurek // Tymczasem w Stanach - 016",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "www.youtube.com/@ZEWschodu  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-21",
     "link": "https://open.spotify.com/episode/1Ck47XVkFDGLzB4Nw7F5vW",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Ukraińcy dostaną Patrioty // Ulało mi się - 95",
@@ -3641,7 +3641,7 @@ const episodes = [
   },
   {
     "title": "Czy Micheil Saakaszwili powiedział ostatnie słowo? feat. Agnieszka Filipiak // Za Rubieżą - 251",
-    "series_code": null,
+    "series": null,
     "description": "Pani Agnieszka zaprasza na swój newsletter o Kaukazie: https://agfilipiak.substack.com/  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-19",
     "link": "https://open.spotify.com/episode/76r1cg9XNnrN9U4Hc4ieij",
@@ -3657,7 +3657,7 @@ const episodes = [
   },
   {
     "title": "Jak zabijają słowa. Gabriel Narutowicz musiał zginąć?",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-16",
     "link": "https://open.spotify.com/episode/6WOIiCvbmHqT4AtoahqHDa",
@@ -3665,7 +3665,7 @@ const episodes = [
   },
   {
     "title": "Największe miasta w historii // Za Rubieżą - 250",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-15",
     "link": "https://open.spotify.com/episode/0E654QRcNV87U6FvADCLOk",
@@ -3681,7 +3681,7 @@ const episodes = [
   },
   {
     "title": "Czy kanapa obali prezydenta RPA? // Za Rubieżą - 249",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-12",
     "link": "https://open.spotify.com/episode/3BCRwPEkpEtzWu1vxdKlNz",
@@ -3697,11 +3697,11 @@ const episodes = [
   },
   {
     "title": "Głosowanie bez wyboru w Kazachstanie // Tymczasem w Stanach - 015",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-10",
     "link": "https://open.spotify.com/episode/09hT8o0NUBcAPe35LoT5rN",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Człowiek roku i sypiąca się Rosja // Ulało mi się - 93",
@@ -3713,7 +3713,7 @@ const episodes = [
   },
   {
     "title": "Ernest Wilimowski // Za Rubieżą - 248",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-08",
     "link": "https://open.spotify.com/episode/2tGT2B2iK6yNxQw2qGbPdb",
@@ -3729,7 +3729,7 @@ const episodes = [
   },
   {
     "title": "Czy Krym będzie ukraiński? - Wojenne QA",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-06",
     "link": "https://open.spotify.com/episode/12DcjGkyZPuZkWmOmdQ61V",
@@ -3737,7 +3737,7 @@ const episodes = [
   },
   {
     "title": "Chińska gospodarka: lanie betonu i szybkie koleje feat. Jakub Jakóbowski // Za Rubieżą - 247",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski  A tu macie Astrokota: https://open.spotify.com/artist/1W9XNSu1w7fSsa7ICdMFQ0",
     "date": "2022-12-05",
     "link": "https://open.spotify.com/episode/2Ibnr6nYcTmt487UBOgc0F",
@@ -3745,7 +3745,7 @@ const episodes = [
   },
   {
     "title": "Jak znika Łotwa, feat. Bartosz Chmielewski // Za Rubieżą - 246",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-12-01",
     "link": "https://open.spotify.com/episode/1AoCA3gNwtuBp5ih9C1NUo",
@@ -3753,7 +3753,7 @@ const episodes = [
   },
   {
     "title": "Jak K-Pop podbija świat, feat. Małgorzata Sidz // Za Rubieżą - 245",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-11-28",
     "link": "https://open.spotify.com/episode/1unGmfsdeSZXb5NIQdINne",
@@ -3777,7 +3777,7 @@ const episodes = [
   },
   {
     "title": "Eksplozja demograficzna // Za Rubieżą - 244",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-11-24",
     "link": "https://open.spotify.com/episode/1wCDoXhQ9t9p6lhazYv0Dq",
@@ -3809,7 +3809,7 @@ const episodes = [
   },
   {
     "title": "Mistrzostwa za wszelką cenę // Za Rubieżą - 243",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-11-21",
     "link": "https://open.spotify.com/episode/5PdkrhN31R6uV9obYfPW41",
@@ -3825,7 +3825,7 @@ const episodes = [
   },
   {
     "title": "11 miliardów ludzi // Za Rubieżą - 242",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-11-17",
     "link": "https://open.spotify.com/episode/64cyWk4MM4p72dmba2JBY6",
@@ -3849,7 +3849,7 @@ const episodes = [
   },
   {
     "title": "Co Gruzini myślą o Rosji? feat. Wojciech Górecki // Za Rubieżą - 241",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-11-14",
     "link": "https://open.spotify.com/episode/1GfNa6GulkH4YRuo7agmEG",
@@ -3881,7 +3881,7 @@ const episodes = [
   },
   {
     "title": "Co się działo 11 listopada 1918 roku? // Za Rubieżą - 240",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-11-10",
     "link": "https://open.spotify.com/episode/6BmqMU8qrL0dbBkxD6tROm",
@@ -3905,7 +3905,7 @@ const episodes = [
   },
   {
     "title": "Dlaczego Ameryka jest podzielona feat. Andrzej Kohut // Za Rubieżą - 239",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-11-07",
     "link": "https://open.spotify.com/episode/1ZcODdnQ40juUjadywOI2w",
@@ -3929,7 +3929,7 @@ const episodes = [
   },
   {
     "title": "Jak Rosja szantażuje Mołdawię? // Za Rubieżą - 238",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-11-03",
     "link": "https://open.spotify.com/episode/12rxAvfpLyCZsEOecrkzSN",
@@ -3953,7 +3953,7 @@ const episodes = [
   },
   {
     "title": "Narodziny rosyjskiego imperializmu, Iwan Groźny i podbój Kazania // Za Rubieżą - 237",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski  https://www.youtube.com/watch?v=XfAtLrXiqdE&t=17s&ab_channel=Idel.%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B8",
     "date": "2022-10-31",
     "link": "https://open.spotify.com/episode/6VpsJsWNsvuGMsS6gzTzl4",
@@ -3977,11 +3977,11 @@ const episodes = [
   },
   {
     "title": "Najważniejsze wybory w historii Brazylii, Historia Brazylii 7 // Za Rubieżą - 236",
-    "series_code": null,
+    "series": "Historia Brazylii",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-10-27",
     "link": "https://open.spotify.com/episode/139pIXDs5zRoIPNIrPUX84",
-    "series_code": null
+    "series_code": "historia-brazylii"
   },
   {
     "title": "Polski fanklub putina // Ulało mi się - 76",
@@ -3993,7 +3993,7 @@ const episodes = [
   },
   {
     "title": "Czy Xi Jinping kiedykolwiek odda władzę? // Za Rubieżą - 235",
-    "series_code": null,
+    "series": null,
     "description": "Cysorz Xi koronował się sam. Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-10-24",
     "link": "https://open.spotify.com/episode/4XJy9JoPd0AJSGJzU5D6AG",
@@ -4017,15 +4017,15 @@ const episodes = [
   },
   {
     "title": "Czy Tadżykistan ma kosę z Rosją? // Tymczasem w Stanach - 014",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski  Słabe rapsy: https://www.youtube.com/watch?v=cc3a2vCgs10&ab_channel=AvlodMedia Abduroziq: https://www.instagram.com/abdu_rozik/",
     "date": "2022-10-21",
     "link": "https://open.spotify.com/episode/4e6HlLgAdakYDhNPSbCuLY",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Dlaczego w Iranie wrze? feat. Urszula Pytkowska-Jakimczyk// Za Rubieżą - 234",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski  https://www.youtube.com/watch?v=4qw3qTV4608&ab_channel=HichkasVEVO",
     "date": "2022-10-20",
     "link": "https://open.spotify.com/episode/1n3IPbqg7kE4hfaOLijyn4",
@@ -4041,11 +4041,11 @@ const episodes = [
   },
   {
     "title": "Nowa stolica, nowa dyktatura, Historia Brazylii 6 // Za Rubieżą - 233",
-    "series_code": null,
+    "series": "Historia Brazylii",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-10-17",
     "link": "https://open.spotify.com/episode/4IIXhPJCHztqlevhk19pV5",
-    "series_code": null
+    "series_code": "historia-brazylii"
   },
   {
     "title": "Teoria zamachu na Most Krymski // Ulało mi się - 72",
@@ -4073,7 +4073,7 @@ const episodes = [
   },
   {
     "title": "Czy Azerbejdżan rozjedzie Armenię? feat. Maciej Musiał // Za Rubieżą - 232",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski  https://mowiacwprost.pl/2022/06/01/rosyjscy-mirotworcy-w-gorskim-karabachu/",
     "date": "2022-10-13",
     "link": "https://open.spotify.com/episode/6eqHsuPjLdzhhHe784sVEh",
@@ -4081,11 +4081,11 @@ const episodes = [
   },
   {
     "title": "Brazylijski faszyzm, Historia Brazylii 5 // Za Rubieżą - 231",
-    "series_code": null,
+    "series": "Historia Brazylii",
     "description": "Prawdziwe brazylijskie wartości.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-10-10",
     "link": "https://open.spotify.com/episode/0ixo4yMfieWwunoEbejNxr",
-    "series_code": null
+    "series_code": "historia-brazylii"
   },
   {
     "title": "Most Krymski jeszcze stoi, chaos rośnie // Ulało mi się - 71",
@@ -4105,7 +4105,7 @@ const episodes = [
   },
   {
     "title": "Kto rządzi w Bośni? feat. Eryk Gawroński // Za Rubieżą - 230",
-    "series_code": null,
+    "series": null,
     "description": "Chaos jak nigdzie.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski  Szersza analiza mojego gościa: https://mowiacwprost.pl/2022/10/04/wybory-w-bih-2022/",
     "date": "2022-10-06",
     "link": "https://open.spotify.com/episode/5l3ltOdbvgns9NDgCXmYNx",
@@ -4137,11 +4137,11 @@ const episodes = [
   },
   {
     "title": "Dobre czasy, złe czasy, Historia Brazylii 4 // Za Rubieżą - 229",
-    "series_code": null,
+    "series": "Historia Brazylii",
     "description": "Kiedy jesteś tak dobry, że padasz ofiarą włąsnego sukcesu.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-10-03",
     "link": "https://open.spotify.com/episode/41XM6qlRH53RBnugDtza0q",
-    "series_code": null
+    "series_code": "historia-brazylii"
   },
   {
     "title": "Czy Rosjanie serio popierają wojnę? // Ulało mi się - 67",
@@ -4169,7 +4169,7 @@ const episodes = [
   },
   {
     "title": "Najgłupsza wojna świata, czyli jak Paragwaj pozbył się wszystkich mężczyzn // Za Rubieżą - 228",
-    "series_code": null,
+    "series": null,
     "description": "Jak nie wstawać z kolan?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-09-29",
     "link": "https://open.spotify.com/episode/1bz69pcaicvStHWglF7tJA",
@@ -4193,11 +4193,11 @@ const episodes = [
   },
   {
     "title": "Cesarstwo Brazylii, Historia Brazylii 3 // Za Rubieżą - 227",
-    "series_code": null,
+    "series": "Historia Brazylii",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2022-09-26",
     "link": "https://open.spotify.com/episode/0LlZqk6OuDlhSqUJ7E317E",
-    "series_code": null
+    "series_code": "historia-brazylii"
   },
   {
     "title": "Czy Dagestan podpali Rosję? // Ulało mi się - 63",
@@ -4225,7 +4225,7 @@ const episodes = [
   },
   {
     "title": "Historia kolei w Polsce, gość: Mamut // Za Rubieżą - 226",
-    "series_code": null,
+    "series": null,
     "description": "Historia pewnej katastrofy.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Kanał Mamuta tutaj: https://open.spotify.com/show/78fTdnzgYk39Q6kSXsOLFl",
     "date": "2022-09-22",
     "link": "https://open.spotify.com/episode/5aBoOqSEVa6IzWaqIblc1Q",
@@ -4249,15 +4249,15 @@ const episodes = [
   },
   {
     "title": "Niewolnictwo, plantacje i capoeira, Historia Brazylii 2 // Za Rubieżą - 225",
-    "series_code": null,
+    "series": "Historia Brazylii",
     "description": "Jak capoeira ratowała życie?Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały:https://www.instagram.com/zarubieza/https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/I jeszcze twitter: https://twitter.com/mioszszymaski2Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj:https://patronite.pl/miloszszymanskiZum zum zum:https://www.youtube.com/watch?v=ZRR8KEEuWUI&ab_channel=PlayNowPlayL8trAttidute:https://www.youtube.com/watch?v=0TanJ9jf-p4&ab_channel=RoadrunnerRecordsMinha pela e negra:https://www.youtube.com/watch?v=NrHuVnCZgLQ&ab_channel=MestreChocolateNavalha nao me corta:https://www.youtube.com/watch?v=1HO0j02cO-E&ab_channel=LuizaCruzMestre Bimba:https://www.youtube.com/watch?v=oMegp6a547Q&ab_channel=FilhosdeBimbaCapoeiraStuttgart",
     "date": "2022-09-19",
     "link": "https://open.spotify.com/episode/2tUe58NKPZeX8Tjin1gE68",
-    "series_code": null
+    "series_code": "historia-brazylii"
   },
   {
     "title": "Armenia, Azerbejdżan i System of a Down",
-    "series_code": null,
+    "series": null,
     "description": "Porozumienia mogą zostać zmienione?Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały:https://www.instagram.com/zarubieza/https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/I jeszcze twitter: https://twitter.com/mioszszymaski2Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj:https://patronite.pl/miloszszymanskiProtect the land:https://www.youtube.com/watch?v=XqmknZNg1yw&ab_channel=SystemOfADownGenocidal Humanoidz:https://www.youtube.com/watch?v=9VvmixeowNI&ab_channel=SystemOfADownAerials:https://www.youtube.com/watch?v=L-iepu3EtyE&ab_channel=systemofadownVEVOAmber:https://www.youtube.com/watch?v=xb99fX7e3GI&ab_channel=serjtankianArtsakh:https://www.youtube.com/watch?v=ttfk0QinrQk&ab_channel=serjtankianYarkhushta:https://www.youtube.com/watch?v=Q13BMlWKZWU&ab_channel=SevakAmroyan",
     "date": "2022-09-17",
     "link": "https://open.spotify.com/episode/6R5HLrSaCRMVbdV5M43DK8",
@@ -4265,27 +4265,27 @@ const episodes = [
   },
   {
     "title": "Tadżykistan zaatakował Kirgistan // Tymczasem w Stanach - 013",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Czy ruskie NATO się rozpada?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-09-17",
     "link": "https://open.spotify.com/episode/4WUiZch1oEUe5YhwrFkwQG",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "All eyez on stolica Kazachstanu // Tymczasem w Stanach - 012",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-09-14",
     "link": "https://open.spotify.com/episode/00UCK2XQwI83MVnG5x45qr",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Współczesna Mongolia - Historia Mongołów 17 // Za Rubieżą - 224",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Co jest dziś najważniejsze w Mongolii?Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały:https://www.instagram.com/zarubieza/https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/I jeszcze twitter: https://twitter.com/mioszszymaski2Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj:https://patronite.pl/miloszszymanskihttps://www.youtube.com/watch?v=v4xZUr0BEfE&ab_channel=TheHUhttps://www.youtube.com/watch?v=6WlI24rv__g&ab_channel=MartinRybka",
     "date": "2022-09-13",
     "link": "https://open.spotify.com/episode/5L27GG8omUaepiXjgFkiKI",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Przesraliście wszystko // Ulało mi się - 58",
@@ -4297,11 +4297,11 @@ const episodes = [
   },
   {
     "title": "Jak Portugalczycy wylądowali w Brazylii? Historia Brazylii 1 // Za Rubieżą - 223",
-    "series_code": null,
+    "series": "Historia Brazylii",
     "description": "Po co wymyślono Brazylię?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  https://www.youtube.com/watch?v=MgvuU5mGb2k&ab_channel=CarlinhosBrown-Topic",
     "date": "2022-09-12",
     "link": "https://open.spotify.com/episode/6GreL2HZuz92ntJvLDHZG5",
-    "series_code": null
+    "series_code": "historia-brazylii"
   },
   {
     "title": "Kim są rosyjscy kolaboranci w Ukrainie? // Ulało mi się - 57",
@@ -4321,7 +4321,7 @@ const episodes = [
   },
   {
     "title": "Życie pod rosyjską okupacją // Za Rubieżą - 222",
-    "series_code": null,
+    "series": null,
     "description": "Co się działo na Chersońszczyźnie?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-09-08",
     "link": "https://open.spotify.com/episode/6n6yhYBPVn9XO5gRVC1Hn9",
@@ -4329,7 +4329,7 @@ const episodes = [
   },
   {
     "title": "Dlaczego Ukraina się nie zawaliła? Gość: Michał Potocki // Za Rubieżą - 221",
-    "series_code": null,
+    "series": null,
     "description": "Jakim krajem była Ukraina?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-09-05",
     "link": "https://open.spotify.com/episode/0tYo4H8UlGqnCtFyqEtn4x",
@@ -4337,7 +4337,7 @@ const episodes = [
   },
   {
     "title": "Jak Polacy pomogli uchodźcom z Grecji? // Za Rubieżą - 220",
-    "series_code": null,
+    "series": null,
     "description": "Uchodźcy kiedyś, uchodźcy dziś.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-09-01",
     "link": "https://open.spotify.com/episode/5ZHcofQn5xRt61G9LsQGKW",
@@ -4345,7 +4345,7 @@ const episodes = [
   },
   {
     "title": "Co robić z rosyjskim imperializmem? // Za Rubieżą - 219",
-    "series_code": null,
+    "series": null,
     "description": "Czy Rosjanie są reformowalni?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-08-29",
     "link": "https://open.spotify.com/episode/3Wd39xAhH8i51jS3JWWwLn",
@@ -4361,7 +4361,7 @@ const episodes = [
   },
   {
     "title": "Paweł Filatev 4 - Sąd nad rosyjskim żołnierzem",
-    "series_code": null,
+    "series": null,
     "description": "Jak wyglądała inwazja z punktu widzenia najeźdźców?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2 Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Książka i wywiad rzeka z Pawłem: https://freerutube.com/2022/08/19/pavel-filatev-kniga-zov-desantnik-rf-protiv-vojny/ https://www.youtube.com/watch?v=huCUZ0ImmVY&ab_channel=LitovecRUBITPRAVDU%21  5'nizza - Soldat: https://www.youtube.com/watch?v=n8ukBgJX2tw&ab_channel=minajamuahv",
     "date": "2022-08-26",
     "link": "https://open.spotify.com/episode/6U46CkEUXfI1L0cEutmVZ8",
@@ -4369,7 +4369,7 @@ const episodes = [
   },
   {
     "title": "Co się działo na Krymie? // Za Rubieżą - 218",
-    "series_code": null,
+    "series": null,
     "description": "Czy Krym wróci?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-08-25",
     "link": "https://open.spotify.com/episode/07H4FjpaeQuecAc6jegB9t",
@@ -4377,7 +4377,7 @@ const episodes = [
   },
   {
     "title": "Paweł Filatev 3 - koniec wojny, początek walki o pokój",
-    "series_code": null,
+    "series": null,
     "description": "Jak wyglądała inwazja z punktu widzenia najeźdźców?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2 Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Książka i wywiad rzeka z Pawłem: https://freerutube.com/2022/08/19/pavel-filatev-kniga-zov-desantnik-rf-protiv-vojny/ https://www.youtube.com/watch?v=huCUZ0ImmVY&ab_channel=LitovecRUBITPRAVDU%21",
     "date": "2022-08-24",
     "link": "https://open.spotify.com/episode/5sbeGlddxJmFjObDQLq2LM",
@@ -4385,15 +4385,15 @@ const episodes = [
   },
   {
     "title": "Kałmucja - szachiści i buddyści - Historia Mongołów 16 // Za Rubieżą - 217",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Czy na szachach można robić politykę?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-08-22",
     "link": "https://open.spotify.com/episode/0HKjI00I9cTx9o8FNThoyT",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Paweł Filatev 2 - Początek wojny",
-    "series_code": null,
+    "series": null,
     "description": "Jak wyglądała inwazja z punktu widzenia najeźdźców?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2 Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Książka i wywiad rzeka z Pawłem: https://freerutube.com/2022/08/19/pavel-filatev-kniga-zov-desantnik-rf-protiv-vojny/",
     "date": "2022-08-22",
     "link": "https://open.spotify.com/episode/1FtPkj0XKkgv7pmPmdHPmf",
@@ -4401,7 +4401,7 @@ const episodes = [
   },
   {
     "title": "Paweł Filatev 1 - Jak trafił na wojnę?",
-    "series_code": null,
+    "series": null,
     "description": "Jak wyglądała inwazja z punktu widzenia najeźdźców?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Książka i wywiad rzeka z Pawłem: https://freerutube.com/2022/08/19/pavel-filatev-kniga-zov-desantnik-rf-protiv-vojny/",
     "date": "2022-08-20",
     "link": "https://open.spotify.com/episode/3KD46WAlzbEvUQ5qTmNhpp",
@@ -4409,7 +4409,7 @@ const episodes = [
   },
   {
     "title": "Czy miasta-widma zaorają chińską gospodarkę? // Za Rubieżą - 216",
-    "series_code": null,
+    "series": null,
     "description": "Jak długo można pompować balon?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-08-18",
     "link": "https://open.spotify.com/episode/6KCaKNaPepMjtEI2jNUW6t",
@@ -4425,7 +4425,7 @@ const episodes = [
   },
   {
     "title": "Nowy Afganistan, rok Talibów u władzy // Za Rubieżą - 215",
-    "series_code": null,
+    "series": null,
     "description": "Co dalej?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Utwór Sonity Alizady \"Solider\": https://www.youtube.com/watch?v=_S6TlnGwbiI&ab_channel=SonitaAlizada",
     "date": "2022-08-15",
     "link": "https://open.spotify.com/episode/0PcORga9238TU98y6JXAl5",
@@ -4449,7 +4449,7 @@ const episodes = [
   },
   {
     "title": "Dlaczego zginął generał Sikorski? // Za Rubieżą - 214",
-    "series_code": null,
+    "series": null,
     "description": "Czy to był zamach czy tylko katastrofa?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Podcast powstał przy współpracy z kanałem Polsat Viasat History, na antenie którego 15 sierpnia o 22:00 swoją premierę będzie mieć trzeci odcinek serii „Podziemna armia”, opowiadający o Polskim Państwie Podziemnym, walce z okupantem i tego, jak powołanie podziemia w Polsce zmieniło bieg II wojny światowej.",
     "date": "2022-08-11",
     "link": "https://open.spotify.com/episode/7apfsWvSZ43JqHL1RrGP4K",
@@ -4481,7 +4481,7 @@ const episodes = [
   },
   {
     "title": "Czy Kosowo działa jako państwo? Gość: Eryk Gawroński // Za Rubieżą - 213",
-    "series_code": null,
+    "series": null,
     "description": "Co się dzieje w Kosowie?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-08-04",
     "link": "https://open.spotify.com/episode/62luuOPgutKqDtWoUVrySH",
@@ -4489,11 +4489,11 @@ const episodes = [
   },
   {
     "title": "Jak Turcja wypełnia dziury po Rosji? // Tymczasem w Stanach - 011",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-08-03",
     "link": "https://open.spotify.com/episode/4unfq9tO82mBtGZT1QXDsr",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Kolejna zbrodnia Rosji // Ulało mi się - 49",
@@ -4505,15 +4505,15 @@ const episodes = [
   },
   {
     "title": "Mongolski Stalin - Historia Mongołów 15 // Za Rubieżą - 212",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Jak mogła wyglądać stalinowska Polska?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-08-01",
     "link": "https://open.spotify.com/episode/6MFcp5oDfzBNkg96YCy0f2",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Spacer z partyzantami // Za Rubieżą - 211",
-    "series_code": null,
+    "series": null,
     "description": "Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Podcast powstał przy współpracy z kanałem Polsat Viasat History, na antenie którego 1 sierpnia o 22:00 swoją premierę będzie mieć czteroodcinkowy dokument „Podziemna armia”, opowiadający o Polskim Państwie Podziemnym, walce z okupantem i tego, jak powołanie podziemia w Polsce zmieniło bieg II wojny światowej.",
     "date": "2022-07-28",
     "link": "https://open.spotify.com/episode/2FqVr2m80yCDr2Sl7QBzeM",
@@ -4521,23 +4521,23 @@ const episodes = [
   },
   {
     "title": "Jak komuniści przejęli władzę w Mongolii? - Historia Mongołów 14 // Za Rubieżą - 210",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Jak czerwoni przejęli władzę bez rozlewu krwi?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2 Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-07-25",
     "link": "https://open.spotify.com/episode/65JQwhlbm1JtjnyIbzfNVr",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Jak powstała współczesna Monoglia? Historia Mongołów 13 // Za Rubieżą - 209",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Zrodzona z chaosu, wywalczona bez wojny, teokratyczna dyktatura.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-07-18",
     "link": "https://open.spotify.com/episode/22j6rOZ7PZApR86URukOT2",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Jak się robi Rock'n'Roll w Uzbekistanie? Gość: Aszot Danieljan // Za Rubieżą - 208",
-    "series_code": null,
+    "series": null,
     "description": "Co się dzieje, gdy dyktatura odpuszcza?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Krylia Origami - Germania: https://www.youtube.com/watch?v=OVn3mRlRi6k&ab_channel=%D0%9A%D1%80%D1%8B%D0%BB%D1%8C%D1%8F%D0%9E%D1%80%D0%B8%D0%B3%D0%B0%D0%BC%D0%B8-OrigamiWings  Krylia Origami - Trzy serca ośmiornicy: https://www.youtube.com/watch?v=ZER9Y0n8szc&ab_channel=ELLO  Elektro Oko i Żenisbek Pijazow - Zavtra: https://www.youtube.com/watch?v=bA8P7WSX8n0&ab_channel=%D0%AD%D0%9B%D0%95%D0%9A%D0%A2%D0%A0%D0%9E%D0%9E%D0%9A%D0%9E",
     "date": "2022-07-14",
     "link": "https://open.spotify.com/episode/69y3wOY1Q9fM8ElXgj4wtu",
@@ -4545,15 +4545,15 @@ const episodes = [
   },
   {
     "title": "Czym się wozi Uzbekistan? // Tymczasem w Stanach - 010",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Merkantylizm w XXI wieku.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  W odcinku wykorzystałem fragment z Chamillionaire - Ridin' (Official Music Video) ft. Krayzie Bone",
     "date": "2022-07-13",
     "link": "https://open.spotify.com/episode/3xDXyVTY3fqHbAyy25POFA",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Czy Mołdawia przetrwa do czasu wejścia do UE? feat. Kamil Całus// Za Rubieżą - 207",
-    "series_code": null,
+    "series": null,
     "description": "Czy jest jeszcze nadzieja dla Mołdawii?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-07-11",
     "link": "https://open.spotify.com/episode/1xX7cXNhoZwMFBgLqlTbhP",
@@ -4561,7 +4561,7 @@ const episodes = [
   },
   {
     "title": "Wojny dorszowe // Za Rubieżą - 206",
-    "series_code": null,
+    "series": null,
     "description": "Jak Wikingowie wklepali Brytyjczykom?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-07-07",
     "link": "https://open.spotify.com/episode/5InvAXJQ3lbYeo6noy52uX",
@@ -4569,19 +4569,19 @@ const episodes = [
   },
   {
     "title": "Rosja blokuje eksport kazachskiej ropy // Tymczasem w Stanach - 009",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Kazachsko-Rosyjska zimna wojna handlowa  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-07-06",
     "link": "https://open.spotify.com/episode/0VJncyXLmHn5JC5vhn5zgp",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Gdzie się podzał Chanat Krymski? Historia Mongołów 12 // Za Rubieżą - 205",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Czy była nadzieja dla Chanatu Krymskiego?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2 Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-07-04",
     "link": "https://open.spotify.com/episode/7BcEvzs3ASmRwIKUKGajf4",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Dlaczego ta wojna się przedłuża? // Ulało mi się - 48",
@@ -4593,31 +4593,31 @@ const episodes = [
   },
   {
     "title": "Uzbecka szkoła pacyfikacji protestów // Tymczasem w Stanach - 008",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Co się wydarzyło w Nukusie?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-07-03",
     "link": "https://open.spotify.com/episode/7DMPjO5PZORFyYbtBg6EMy",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Szczyt Kaspijski i czy putin ma jeszcze kolegów? // Tymczasem w Stanach - 007",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Co się działo w Aszchabadzie?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-07-02",
     "link": "https://open.spotify.com/episode/7y3GwHZeouvg0f9U67sb4o",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Karakałpacja protestuje! // Tymczasem w Stanach - 006",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Czy w Nukusie będzie Andiżan?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-07-01",
     "link": "https://open.spotify.com/episode/4FJFg8fP0cXtxjXOh4XylM",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "QAnon // Za Rubieżą - 204",
-    "series_code": null,
+    "series": null,
     "description": "Co się dzieje, gdy wiara twardsza jest niż beton?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-30",
     "link": "https://open.spotify.com/episode/7I6qpQyDFdEjGTAmbZLWox",
@@ -4633,7 +4633,7 @@ const episodes = [
   },
   {
     "title": "Seks i władza. Uzależnienie od seksu czy tylko od władzy? // Za Rubieżą - 203",
-    "series_code": null,
+    "series": null,
     "description": "Czy władza i zaburzenia seksualne chadzają w parze? Wszystkim którzy słuchając tego podcastu zidentyfikowali się z problemem polecam kontakt z telefonem zaufania 801 889 880 Działalność telefonu zaufania obejmuje: - prowadzenie konsultacji telefonicznych i udzielanie wsparcia psychologicznego - udzielanie informacji na temat możliwości podjęcia terapii i adresów placówek udzielających pomocy w zakresie uzależnień behawioralnych, - prowadzenie działań informacyjnych i edukacyjnych na temat uzależnień behawioralnych. Infolinia 801 889 880 jest czynna codziennie w godzinach od 17.00 do 22.00 z wyjątkiem świąt państwowych. Można też skorzystać z poradni online na stronie www.uzaleznieniabehawioralne.pl - anonimowo i nieodpłatnie.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2 Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-27",
     "link": "https://open.spotify.com/episode/54phSexHYBhvFI4mKl1ZNp",
@@ -4641,7 +4641,7 @@ const episodes = [
   },
   {
     "title": "Dlaczego Turcja jest taka jaka jest? // Za Rubieżą - 202",
-    "series_code": null,
+    "series": null,
     "description": "Co się odredżepia w Turcji?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-20",
     "link": "https://open.spotify.com/episode/3kTP5WIa4L6wCatQnNGfFT",
@@ -4649,15 +4649,15 @@ const episodes = [
   },
   {
     "title": "Jak Makrony i Szolce powinny rozmawiać z putinem? // Tymczasem w Stanach - 005",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Jak Kasym-Żomart Tokajew zgasił putina jak peta.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-18",
     "link": "https://open.spotify.com/episode/3TpYoZgOhReQsVqUroJxaK",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "2 x 200 cz 2 - Wszystko co chcielibyście wiedzieć o historii i nie baliście się zapytać // Za Rubieżą - 201",
-    "series_code": null,
+    "series": null,
     "description": "Drugi jubileuszowy odcinek 2x200! Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2 Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-17",
     "link": "https://open.spotify.com/episode/0VBM3326yjK4yuVzoXgSED",
@@ -4665,7 +4665,7 @@ const episodes = [
   },
   {
     "title": "2 x 200 - Wszystko co chcielibyście wiedzieć o historii i nie baliście się zapytać // Za Rubieżą - 200",
-    "series_code": null,
+    "series": null,
     "description": "Jubileuszowy odcinek 2x200!  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-16",
     "link": "https://open.spotify.com/episode/6VKV8UkmGyuEZ0Kn9BphIR",
@@ -4673,23 +4673,23 @@ const episodes = [
   },
   {
     "title": "Chanat Krymski, początek. Historia Mongołów 11 // Za Rubieżą - 199",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Skąd się wziął Chanat Krymski?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-13",
     "link": "https://open.spotify.com/episode/5UJFoSr0ksYILbtLsd26Wv",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Jak narodziła się gwiazda - Fristajlo // Tymczasem w Stanach - 004",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Fut fut fristajlo!  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Insta Jelnara: https://www.instagram.com/ekaldynov/",
     "date": "2022-06-12",
     "link": "https://open.spotify.com/episode/16zDJ8AXPDuP64ADQwN275",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Dlaczego Sri Lanka zbankrutowała? // Za Rubieżą - 198",
-    "series_code": null,
+    "series": null,
     "description": "Co się odradżapaksza w Sri Lance?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-11",
     "link": "https://open.spotify.com/episode/3EvSh7zMalDB2kozOZWyLW",
@@ -4697,11 +4697,11 @@ const episodes = [
   },
   {
     "title": "Reforma Konstytucji Kazachstanu // Tymczasem w Stanach - 003",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Czy Kazachstan się demokratyzuje?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-08",
     "link": "https://open.spotify.com/episode/4tjvbXdoi39xHxKFcudJrg",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Jak ważne jest ukraińskie zboże? // Ulało mi się - 46",
@@ -4713,23 +4713,23 @@ const episodes = [
   },
   {
     "title": "Jak upadła Złota Orda? Historia Mongołów 10 // Za Rubieżą - 197",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Dlaczego Jagiełło pojechał do domu?   Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-06",
     "link": "https://open.spotify.com/episode/6sjQPLl7jCFoqt1mxnWaVQ",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Pacyfikacja protestów w Badachszanie // Tymczasem w Stanach - 002",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Jak dyktatura radzi sobie z opinią publiczną?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-02",
     "link": "https://open.spotify.com/episode/4JgrzSZjyXKs60sR0qC7Lg",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Komsomoł, czyli jak Sowieci tworzyli nowego człowieka? Gość: Michał Krzyżaniak // Za Rubieżą - 196",
-    "series_code": null,
+    "series": null,
     "description": "Takie będą Związki Radzieckie jak ich młodzieży chowanie.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-02",
     "link": "https://open.spotify.com/episode/1Xd6r3Fkh1JeGRPHSVncor",
@@ -4737,7 +4737,7 @@ const episodes = [
   },
   {
     "title": "Gry Wojenne, czy przemoc w grach szkodzi i czy można się od nich uzależnić? // Odcinek specjalny - 01",
-    "series_code": null,
+    "series": null,
     "description": "Jak gry komputerowe zmieniły nasz świat?  Wszystkim którzy słuchając tego podcastu zidentyfikowali się z problemem polecam kontakt z telefonem zaufania 801 889 880  Działalność telefonu zaufania obejmuje: - prowadzenie konsultacji telefonicznych i udzielanie wsparcia psychologicznego  - udzielanie informacji na temat możliwości podjęcia terapii i adresów placówek udzielających pomocy w zakresie uzależnień behawioralnych, - prowadzenie działań informacyjnych i edukacyjnych na temat uzależnień behawioralnych. Infolinia 801 889 880 jest czynna codziennie w godzinach od 17.00 do 22.00 z wyjątkiem świąt państwowych.  Można też skorzystać z poradni online na stronie www.uzaleznieniabehawioralne.pl - anonimowo i nieodpłatnie.   Mój tekst debiutancki: https://magazynpismo.pl/rzeczywistosc/reportaz/bede-gral-w-gre-reportaz-uzaleznienie/  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-06-01",
     "link": "https://open.spotify.com/episode/2NJZZkKPpWBsQnSRJ51ayw",
@@ -4745,15 +4745,15 @@ const episodes = [
   },
   {
     "title": "Jak Mongołowie władali Rusią? Historia Mongołów 9 // Za Rubieżą - 195",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Dlaczego Mongołowie stracili Ruś?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-05-30",
     "link": "https://open.spotify.com/episode/31eBX20oEFFhnFm73aZJ7m",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Wszystko co chcieliście wiedzieć o wojnie i nie baliście się zapytać // Za Rubieżą - 194",
-    "series_code": null,
+    "series": null,
     "description": "Czy putin chujem jest?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-05-29",
     "link": "https://open.spotify.com/episode/0tojt4dLlrXe3M8fO4P6rD",
@@ -4761,11 +4761,11 @@ const episodes = [
   },
   {
     "title": "Jak Mongołowie podbili Indie? Historia Mongołów 8 // Za Rubieżą - 193",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Jak powstało najpotężniejsze państwo świata?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-05-23",
     "link": "https://open.spotify.com/episode/1SaBNWlaOfsmoQNVNP7Kom",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Pierwsza głowa państwa odwiedza Kijów // Ulało mi się - 45",
@@ -4785,11 +4785,11 @@ const episodes = [
   },
   {
     "title": "Operacja antyterrorystyczna w Tadżykistanie // Tymczasem w Stanach - 001",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Co się dzieje w Górnobadachszańskim Obwodzie Autonomicznym?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-05-20",
     "link": "https://open.spotify.com/episode/0VnzQmk58ddKxs7ZqIKBMx",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Co się stanie z obrońcami Azowstali? // Ulało mi się - 43",
@@ -4801,7 +4801,7 @@ const episodes = [
   },
   {
     "title": "Wojna Zimowa // Za Rubieżą - 192",
-    "series_code": null,
+    "series": null,
     "description": "Jak Dawid oparł się Goliatowi?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-05-19",
     "link": "https://open.spotify.com/episode/0v1XR72WKXwwUxyech4eTu",
@@ -4809,11 +4809,11 @@ const episodes = [
   },
   {
     "title": "Jak Timur zgładził 5% ludzkości? Historia Mongołów 7 // Za Rubieżą - 191",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Jak zostać wielkim władcą od zera?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-05-16",
     "link": "https://open.spotify.com/episode/58kZegQlc5BumMmt25aaJD",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Ukraińscy doszli do granicy, Charków uratowany! // Ulało mi się - U42",
@@ -4841,11 +4841,11 @@ const episodes = [
   },
   {
     "title": "Chanat Czagatajski, Historia Mongołów 6 // Za Rubieżą - 189",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Wszystkie państwa mongolskie, które nikogo nie obchodzą.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-05-09",
     "link": "https://open.spotify.com/episode/3PbLFro6ScUYeEuEKe6Pbi",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Policja w Berlinie zawija Ukraińskie protesty // Ulało mi się - 40",
@@ -4897,11 +4897,11 @@ const episodes = [
   },
   {
     "title": "Jak Mongołowie niszczyli cywilizacje? Historia Mongołów 5 // Za Rubieżą - 187",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Jak Bagdad osunął się w najciemniejszą z tysiąca i jednej nocy.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-04-25",
     "link": "https://open.spotify.com/episode/3QSJYliQUaP7rDEeiJ3Len",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Czy oprawcy Buczy powinni wisieć? // Ulało mi się - 35",
@@ -4969,11 +4969,11 @@ const episodes = [
   },
   {
     "title": "Kubilaj-chan, zjednoczenie Chin i kamikaze, Historia Mongołów 4 // Za Rubieżą - 184",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Za cysorza Kubilaja jedz pij i podbijaj Chiny.   Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-04-11",
     "link": "https://open.spotify.com/episode/6viCR6eQn481zcLwXTpLP2",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Co kombinują kacapy? // Ulało mi się - 29",
@@ -5001,11 +5001,11 @@ const episodes = [
   },
   {
     "title": "Jak Mongołowie spalili Moskwę? Historia Mongołów 3 // Za Rubieżą - 182",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Gdy Mongołowie szukali końca świata.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-04-04",
     "link": "https://open.spotify.com/episode/42lJRNBECw1CKtnjEhWJiY",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Zbrodnie Rosjan w Buczy // Ulało mi się - 27",
@@ -5057,7 +5057,7 @@ const episodes = [
   },
   {
     "title": "Jak myślą Rosjanie w państwach bałtyckich? // Za Rubieżą - 180",
-    "series_code": null,
+    "series": null,
     "description": "Kiedy postanie Dyneburska Republika Ludowa?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-03-24",
     "link": "https://open.spotify.com/episode/7vfsxIjUSBz4mbW9uptDmn",
@@ -5081,11 +5081,11 @@ const episodes = [
   },
   {
     "title": "Czyngis-chan 2 - Podbój świata, Historia Mongołów 2 // Za Rubieżą - 179",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Dlaczego Czyngis-chan postanowił podbić cały świat?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-03-21",
     "link": "https://open.spotify.com/episode/3lbTChGOv612zigVxpSGZY",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Ukraina i rosyjska propaganda // Ulało mi się - 20",
@@ -5097,7 +5097,7 @@ const episodes = [
   },
   {
     "title": "Jak zabić cara? // Za Rubieżą - 178",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego car musiał zginąć?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-03-17",
     "link": "https://open.spotify.com/episode/4DFKDVYcHld8S1zlfcUpfA",
@@ -5145,7 +5145,7 @@ const episodes = [
   },
   {
     "title": "Jak obalić cara? // Za Rubieżą - 177",
-    "series_code": null,
+    "series": null,
     "description": "Jak nisko Rosja musi upaść, żeby zamodzierżca stracił władzę?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-03-10",
     "link": "https://open.spotify.com/episode/7jDDtvpg0hfAvDkykyHLsY",
@@ -5193,11 +5193,11 @@ const episodes = [
   },
   {
     "title": "Czy Mołdawia odzyska Naddniestrze? Wojny hybrydowe 4 // Za Rubieżą - 176",
-    "series_code": null,
+    "series": "Wojny hybrydowe",
     "description": "Czy Mołdawia może odzyskać Naddniestrze, a Gruzja Abchazję? Czy to dobry moment na niepodległość Czeczenii?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-03-03",
     "link": "https://open.spotify.com/episode/1SWxziZkwxW7lgUNAJFGIJ",
-    "series_code": null
+    "series_code": "wojny-hybrydowe"
   },
   {
     "title": "Czy nadążamy z przyjmowaniem uchodźców? // Ulało mi się - 09",
@@ -5225,11 +5225,11 @@ const episodes = [
   },
   {
     "title": "Czyngis-chan, Historia Mongołów 1 // Za Rubieżą - 175",
-    "series_code": null,
+    "series": "Historia Mongołów",
     "description": "Czyngis-chan the movie.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-02-28",
     "link": "https://open.spotify.com/episode/3AXGrWWwMDxMscR3YeUbA7",
-    "series_code": null
+    "series_code": "historia-mongolow"
   },
   {
     "title": "Sługa Narodu // Ulało mi się - 06",
@@ -5257,11 +5257,11 @@ const episodes = [
   },
   {
     "title": "Jak się żyje w nieuznawanym państwie? Wojny hybrydowe 3, gość: Piotr Oleksy // Za Rubieżą - 174",
-    "series_code": null,
+    "series": "Wojny hybrydowe",
     "description": "Co to i po co jest państwo?   Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-02-24",
     "link": "https://open.spotify.com/episode/5ZjruF4MaK9R34TwBsgKJs",
-    "series_code": null
+    "series_code": "wojny-hybrydowe"
   },
   {
     "title": "Putin zaatakował Ukrainę // Ulało mi się - 03",
@@ -5289,7 +5289,7 @@ const episodes = [
   },
   {
     "title": "O czym szumią bieszczadzkie lasy? // Za Rubieżą - 173",
-    "series_code": null,
+    "series": null,
     "description": "A gdyby tak rzucić wszystko i wyjechać w Bieszczady?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-02-21",
     "link": "https://open.spotify.com/episode/7vlHRw2Kjr7Ge1ZT44JUqV",
@@ -5297,39 +5297,39 @@ const episodes = [
   },
   {
     "title": "Jak powstało Naddniestrze? Wojny Hybrydowe 2, Gość: Piotr Oleksy // Za Rubieżą - 172",
-    "series_code": null,
+    "series": "Wojny hybrydowe",
     "description": "Jak powstają parapaństwa?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-02-17",
     "link": "https://open.spotify.com/episode/1Cdn6G5RwETAgQseVY5d0o",
-    "series_code": null
+    "series_code": "wojny-hybrydowe"
   },
   {
     "title": "1968, Le Pen i wojna pokoleń, Historia Francji 25/25 // Za Rubieżą - 171",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Francuska wojna pokoleń  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-02-14",
     "link": "https://open.spotify.com/episode/3t4cmxoTlx0ILtCZEMhthg",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Upadek ZSRR, Wojny Hybrydowe 1 // Za Rubieżą - 170",
-    "series_code": null,
+    "series": "Wojny hybrydowe",
     "description": "Jak i dlaczego rozpadł się Związek Radziecki?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-02-10",
     "link": "https://open.spotify.com/episode/16oZvP4j2185TT3tjKRh8S",
-    "series_code": null
+    "series_code": "wojny-hybrydowe"
   },
   {
     "title": "Wojna Algierska, Historia Francji 24/25 // Za Rubieżą - 169",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak Francja straciła swoje Kresy?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-02-07",
     "link": "https://open.spotify.com/episode/0BdZkHfsKaeadvRICsC01t",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Od III Rzeszy do Niemiec // Za Rubieżą - 168",
-    "series_code": null,
+    "series": null,
     "description": "Jak najgorszy wróg stał się bliskim przyjacielem?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Odcinek zrealizowany we współpracy z Polsat Viasat History. https://www.facebook.com/ViasatHistoryPL Polsat Viasat History przywraca historię do życia dzięki wciągającym filmom dokumentalnym, które ukazują wydarzenia historyczne z nowej, współczesnej perspektywy. Rzetelne i wszechstronne programy zabierają widzów w podróż w czasie i poszerzają horyzonty, przybliżając dzieje Europy oraz świata oraz wpływ, jaki historia ma na nasze życie.",
     "date": "2022-02-03",
     "link": "https://open.spotify.com/episode/17rRR6QJSVAbDvNZjyTaQO",
@@ -5337,15 +5337,15 @@ const episodes = [
   },
   {
     "title": "Charles DeGaulle, Historia Francji 23/25 // Za Rubieżą - 167",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak Francja zmartwychwstała?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-01-31",
     "link": "https://open.spotify.com/episode/6129rg0Jyzvmb9lrACvfA9",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Co się stało w Kazachstanie? // Za Rubieżą - 166",
-    "series_code": null,
+    "series": null,
     "description": "Co się odnursułtania w Kazachstanie?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-01-27",
     "link": "https://open.spotify.com/episode/2eBAqKUJolSIM9hhtZD0l0",
@@ -5353,15 +5353,15 @@ const episodes = [
   },
   {
     "title": "Vichy, Petain i francuscy kolaboranci, Historia Francji 22/25 // Za Rubieżą - 165",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Czy wszyscy Francuzi działali w ruchu oporu?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-01-24",
     "link": "https://open.spotify.com/episode/6r0aD41l5bFeZhEG1NnIF8",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Edward Gierek // Za Rubieżą - 164",
-    "series_code": null,
+    "series": null,
     "description": "Czy Edward Gierek chciał obalić komunę?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Kanał Michała: https://www.youtube.com/channel/UCl-aM5l4DmAvEAvtVO3LB3A https://www.facebook.com/M%C3%B3j-ma%C5%82y-PRL-342053916378178",
     "date": "2022-01-20",
     "link": "https://open.spotify.com/episode/1pkGjaZZjLDtp07DkugJHj",
@@ -5369,15 +5369,15 @@ const episodes = [
   },
   {
     "title": "Dlaczego Francja przegrała z III Rzeszą? Historia Francji 21/25 // Za Rubieżą - 163",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Czy Francja od razu się poddała?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-01-17",
     "link": "https://open.spotify.com/episode/2z4a0Nk85Ok7gnMt8FKLes",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Czy przyszłość Mołdawii jest zielona? // Za Rubieżą - 162",
-    "series_code": null,
+    "series": null,
     "description": "Czy Mołdawia ma przyszłość czy jest ona zielona?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-01-13",
     "link": "https://open.spotify.com/episode/1kJah1dBFaVN64qyqDCszq",
@@ -5385,15 +5385,15 @@ const episodes = [
   },
   {
     "title": "Francja w I Wojnie Światowej, Historia Francji 20/25 // Za Rubieżą - 161",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Po Francji była Wielka Wojna?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-01-11",
     "link": "https://open.spotify.com/episode/7zsjdnIzLXfvB7WppaAHht",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Najlepsze miasto świata (w pewnym sensie) // Za Rubieżą - 160",
-    "series_code": null,
+    "series": null,
     "description": "Spacer po najlepszym mieście świata.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-01-06",
     "link": "https://open.spotify.com/episode/6K3C7B76LNt0Qd3uJbds4C",
@@ -5401,15 +5401,15 @@ const episodes = [
   },
   {
     "title": "III Republika Francuska, Dreyfus i Komuna Paryska, Historia Francji 19/25 // Za Rubieżą - 159",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Czy we Francji działo się jeszcze coś ciekawego po Napoleonie?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2022-01-03",
     "link": "https://open.spotify.com/episode/2cwM6Vt3kA3bBZREzCLsBq",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Bismarck i zjednoczenie Niemiec // Za Rubieżą - 158",
-    "series_code": null,
+    "series": null,
     "description": "Jak jednoczyć przez wojnę?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-12-30",
     "link": "https://open.spotify.com/episode/5gI0YGUWNREBpgOzoLvvp3",
@@ -5417,15 +5417,15 @@ const episodes = [
   },
   {
     "title": "Jak realizować własne cele i spełniać marzenia? Historia Francji 18/25 // Za Rubieżą - 157",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Wyjdź ze swojej strefy komfortu i bądź kim tylko zapragniesz.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-12-27",
     "link": "https://open.spotify.com/episode/3fmP1ljZoxRhpjMMH7kVbu",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Syn Boży // Za Rubieżą - 156",
-    "series_code": null,
+    "series": null,
     "description": "Święta, Święta i po Świętach.  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-12-23",
     "link": "https://open.spotify.com/episode/0VjWBalMgYFlVwFpt8h8iX",
@@ -5433,15 +5433,15 @@ const episodes = [
   },
   {
     "title": "Francja i Europa po Napoleonie, Historia Francji 17/25 // Za Rubieżą - 155",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak Francja ogarniała się po Napoleonie?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-12-20",
     "link": "https://open.spotify.com/episode/702fei1R9XvKnCkUacf8n8",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Dlaczego Francja podbiła Algierię? // Za Rubieżą - 154",
-    "series_code": null,
+    "series": null,
     "description": "Po co była Francji Algieria?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-12-16",
     "link": "https://open.spotify.com/episode/5wd0EeolKX29MTqKXSsFSy",
@@ -5449,15 +5449,15 @@ const episodes = [
   },
   {
     "title": "Upadek Napoleona, Historia Francji 16/25 // Za Rubieżą - 153",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Czy Napoleon przegrał?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-12-13",
     "link": "https://open.spotify.com/episode/0iUffkK07r5yXL2lHDpCkR",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Angolańska wojna o niepodległość // Za Rubieżą - 152",
-    "series_code": null,
+    "series": null,
     "description": "Jak Angola wywalczyła sobie niepodległość i co z nią zrobiła?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-12-09",
     "link": "https://open.spotify.com/episode/5GLTb6Cr8QOQqVhJxFMLve",
@@ -5465,15 +5465,15 @@ const episodes = [
   },
   {
     "title": "Wojny napoleońskie, Historia Francji 15/25 // Za Rubieżą - 151",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak Napoleon przejął władzę na Europą?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-12-06",
     "link": "https://open.spotify.com/episode/6kIvmcWWeiDCx9Jm8bX2K1",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Republika Nowogrodu, alternatywna historia Rosji // Za Rubieżą - 150",
-    "series_code": null,
+    "series": null,
     "description": "Jak mogłaby wyglądać Rosja?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-12-02",
     "link": "https://open.spotify.com/episode/0pw3YSmlCeHwkyaHjdnXNh",
@@ -5481,15 +5481,15 @@ const episodes = [
   },
   {
     "title": "Napoleon Bonaparte, droga do władzy, Historia Francji 14/25 // Za Rubieżą - 149",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak Napoleon zdobył władzę we Francji?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-11-29",
     "link": "https://open.spotify.com/episode/3A0yG3Zl49YYgmaJT4osv6",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Skąd się wzięła Czarnogóra? Gość: Marta Szpala, analityczka OSW // Za Rubieżą - 148",
-    "series_code": null,
+    "series": null,
     "description": "Jak się robi wielką politykę w małym kraju?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-11-25",
     "link": "https://open.spotify.com/episode/72q2hm8T9rzq5MXALYqcgT",
@@ -5497,15 +5497,15 @@ const episodes = [
   },
   {
     "title": "Robespierre - rewolucja i wielki terror, Historia Francji 13/25 // Za Rubieżą - 147",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak rewolucja zjada swoje dzieci?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-11-22",
     "link": "https://open.spotify.com/episode/1deClri9Cg4tiT0mNeZKUp",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Czy Czesi walczyli z III Rzeszą? Gość: prof. Piotr Majewski // Za Rubieżą - 146",
-    "series_code": null,
+    "series": null,
     "description": "Jak III Rzesza pożarła Czechosłowację?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Polecam także książki mojego gościa: https://wydawnictwo.krytykapolityczna.pl/281_piotr-m-majewski",
     "date": "2021-11-18",
     "link": "https://open.spotify.com/episode/3vag0nKEreCKChcKWlZceY",
@@ -5513,15 +5513,15 @@ const episodes = [
   },
   {
     "title": "Rewolucja Francuska, Historia Francji 12/25 // Za Rubieżą - 145",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Dlaczego wybuchła Rewolucja Francuska?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-11-15",
     "link": "https://open.spotify.com/episode/3tR7ngPDGd8LCTc1pCNbSD",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Kto rządził w II RP, Dzień Niepodległości special // Za Rubieżą - 144",
-    "series_code": null,
+    "series": null,
     "description": "Jak działała II RP?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-11-10",
     "link": "https://open.spotify.com/episode/3WI06ILUa6oeCzVgCUdVeC",
@@ -5529,15 +5529,15 @@ const episodes = [
   },
   {
     "title": "Wojna siedmioletnia, Historia Francji 11/25 // Za Rubieżą - 143",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak wyglądała pierwsza pierwsza wojna światowa?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-11-08",
     "link": "https://open.spotify.com/episode/6r6Dxinyc2rzGscijCId3m",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Jak Maroko włada Saharą Zachodnią? Gość: Bartek Sabela, autor: \"Wszystkie ziarna piasku\" // Za Rubieżą - 142",
-    "series_code": null,
+    "series": null,
     "description": "Co się dzieje w Saharze Zachodniej?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-11-04",
     "link": "https://open.spotify.com/episode/5OZ4PvqGIa6D20kdgJ6aGc",
@@ -5545,7 +5545,7 @@ const episodes = [
   },
   {
     "title": "Co się dzieje na naszej granicy? // Za Rubieżą - 141",
-    "series_code": null,
+    "series": null,
     "description": "Czy przekroczyliśmy już granicę człowieczeństwa?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-11-01",
     "link": "https://open.spotify.com/episode/0W4SJdPdv1KfRMdQBoqMzu",
@@ -5553,7 +5553,7 @@ const episodes = [
   },
   {
     "title": "Augusto Pinochet // Za Rubieżą - 140",
-    "series_code": null,
+    "series": null,
     "description": "Co zrobił generał Pinochet? Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-10-28",
     "link": "https://open.spotify.com/episode/4PJF7LQ67BZL4Y6BJ42lUk",
@@ -5561,15 +5561,15 @@ const episodes = [
   },
   {
     "title": "Ludwik XIV, król słońce, Historia Francji 10/25 // Za Rubieżą - 139",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak wyglądał złoty wiek Królestwa Francji?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Kongres tutaj (pojawiam się w 32 minucie): https://www.youtube.com/watch?v=bR4tjlH1yvE&t=2192s&ab_channel=KongresObywatelski",
     "date": "2021-10-25",
     "link": "https://open.spotify.com/episode/35VYaU6Mn0lXsJUey06qlL",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Somalia, państwo upadłe // Za Rubieżą - 138",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego Somalia upadła?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-10-21",
     "link": "https://open.spotify.com/episode/67OFFCq29b6bt2Mf7XGA5V",
@@ -5577,7 +5577,7 @@ const episodes = [
   },
   {
     "title": "Somalijscy piraci, goście: Piotr Budzynowski i Łukasz Pilip // Za Rubieżą - 137",
-    "series_code": null,
+    "series": null,
     "description": "Jak działają współcześni piraci?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Książka moich gości: http://wydawnictwoagora.pl/porwany-82-dni-w-rekach-piratow/",
     "date": "2021-10-18",
     "link": "https://open.spotify.com/episode/7gJDLGmPAj8IPB8crgBlYH",
@@ -5585,7 +5585,7 @@ const episodes = [
   },
   {
     "title": "Pocieszycielki japońskiej armii, gość: Małgorzata Sidz, autorka: \"Pół roku na Saturnie\" // Za Rubieżą - 136",
-    "series_code": null,
+    "series": null,
     "description": "Jakich zbrodni dopuszczali się Japończycy?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-10-14",
     "link": "https://open.spotify.com/episode/1kLYznFIQMlHXHKv24j5YF",
@@ -5593,15 +5593,15 @@ const episodes = [
   },
   {
     "title": "Trzej muszkieterowie a francuski absolutyzm, Historia Francji 09/25 // Za Rubieża - 135",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak powstawał francuski absolutyzm?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-10-11",
     "link": "https://open.spotify.com/episode/3HWh1AWZBkZ7qEz2VbZRKu",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Jak rząd RP pojechał na wycieczkę do Rumunii // Za Rubieżą - 134",
-    "series_code": null,
+    "series": null,
     "description": "Co się dzieje, kiedy obiecujesz obiecujesz bronić kraju do ostatniej kropli krwi, a potem zmieniasz zdanie?  A jak się żyje i umiera w Londynie?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski  Podcast powstał przy współpracy z kanałem dokumentalnym Polsat Viasat History https://blog.viasathistory.pl/show/morderstwo-na-kolei/",
     "date": "2021-10-07",
     "link": "https://open.spotify.com/episode/5cYBMZE0Dcs4EFeId2fFPd",
@@ -5609,15 +5609,15 @@ const episodes = [
   },
   {
     "title": "Francuskie wojny religijne, Historia Francji 08/25 // Za Rubieżą - 133",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak zabijano w imię najświętszej religii?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-10-04",
     "link": "https://open.spotify.com/episode/6cXMNNGa9NdLHtvA1Jf64v",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Jak się tańczy na głowach węży? // Za Rubieżą - 132",
-    "series_code": null,
+    "series": null,
     "description": "O co chodzi w wojnie domowej w Jemenie?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-09-30",
     "link": "https://open.spotify.com/episode/5LKIAKatth1svNna8eqB50",
@@ -5625,15 +5625,15 @@ const episodes = [
   },
   {
     "title": "Nowa Francja, Historia Francji 07/25 // Za Rubieżą - 131",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak powstało francuskie imperium kolonialne?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-09-27",
     "link": "https://open.spotify.com/episode/35uxNb4w7XiOgVUbpetQ4u",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Ostatni Żyd w Afganistanie // Za Rubieżą - 130",
-    "series_code": null,
+    "series": null,
     "description": "Jak zniknął mały świat?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-09-23",
     "link": "https://open.spotify.com/episode/77zF9nZS2JESDRCHRZ3sMH",
@@ -5641,15 +5641,15 @@ const episodes = [
   },
   {
     "title": "Joanna d'Arc, Historia Francji 06/25 // Za Rubieżą - 129",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak nastolatka zmieniła losy Świata?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-09-20",
     "link": "https://open.spotify.com/episode/3q8wRRCHkepthq8REQW46s",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Jak Lee Kuan Yew stworzył Singapur? // Za Rubieżą - 128",
-    "series_code": null,
+    "series": null,
     "description": "Czy istnieją oświecone dyktatury?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-09-16",
     "link": "https://open.spotify.com/episode/24CzlfS9y2SppR7h8CKyZg",
@@ -5657,15 +5657,15 @@ const episodes = [
   },
   {
     "title": "Wojna stuletnia, Historia Francji 05/25 // Za Rubieżą - 127",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "O co można się tłuc przez 100 lat?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-09-13",
     "link": "https://open.spotify.com/episode/5mzaQ35zuiiTDQMvHA9UNv",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Kiedy Bałuty były Kalifornią // Za Rubieżą - 126",
-    "series_code": null,
+    "series": null,
     "description": "Jak wyglądało życie w ziemi obiecanej?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Odcinek powstał we współpracy z Centrum Dialogu im. Marka Edelmana w Łodzi w ramach projektu BAŁUTY STARE/NOWE. Dofinansowano ze środków Muzeum Historii Polski w Warszawie w ramach programu „Patriotyzm Jutra”. Więcej o projekcie wkrótce na www.centrumdialogu.com oraz na Facebooku i Instagramie: @centrumdialogulodz",
     "date": "2021-09-09",
     "link": "https://open.spotify.com/episode/5ATPdmj5f9rrOXm9ZPsXzi",
@@ -5673,15 +5673,15 @@ const episodes = [
   },
   {
     "title": "Templariusze, krucjaty i problemy budżetowe, Historia Francji 04/25 // Za Rubieżą - 125",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Czy da się rubelka zarobić i godności nie stracić?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-09-06",
     "link": "https://open.spotify.com/episode/0vapFkHZ1rWu5MKBVWisYf",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Operation Himmlerstadt // Za Rubieżą - 124",
-    "series_code": null,
+    "series": null,
     "description": "Jak miała wyglądać Europa Wschodnia pod panowaniem Trzeciej Rzeszy?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-09-02",
     "link": "https://open.spotify.com/episode/3EAK3fd6FKGeO4deS49X4g",
@@ -5689,15 +5689,15 @@ const episodes = [
   },
   {
     "title": "Wikingowie w Królestwie Franków, Historia Francji 03/25 // Za Rubieżą - 123",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak Wikingowie hasali po Francji i jakie miało to konsekwencje polityczne?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-08-30",
     "link": "https://open.spotify.com/episode/3kieh6TWfTug3u8zPDj9vC",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Jan Zamoyski i polityka imperialna // Za Rubieżą - 122",
-    "series_code": null,
+    "series": null,
     "description": "Jaki rozmach miał Jan Zamoyski? Dlaczego Rumuni go nie kochają i gdzie działa najstarszy uniwersytet na świecie?   Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-08-26",
     "link": "https://open.spotify.com/episode/57aSYFqL5YvenUzhfvXrRJ",
@@ -5705,15 +5705,15 @@ const episodes = [
   },
   {
     "title": "Gra o Tron Franków, Historia Francji 02/25 // Za Rubieżą - 121",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak powstało i zaczęło się rozłazić imperium Karolingów?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-08-23",
     "link": "https://open.spotify.com/episode/3wkfnuqgvGz9pyyIRybDiY",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Pitcairn - najmniejsze państwo świata, gość: Marek Ułan-Szymański // Za Rubieżą - 120",
-    "series_code": null,
+    "series": null,
     "description": "Czy warto rzucić wszystko i wyjechać na koniec świata?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-08-19",
     "link": "https://open.spotify.com/episode/57Js0ptQAq9FISDxuJc8iY",
@@ -5721,15 +5721,15 @@ const episodes = [
   },
   {
     "title": "Galowie przeciw Rzymowi, Historia Francji 01/25 // Za Rubieżą - 119",
-    "series_code": null,
+    "series": "Historia Francji",
     "description": "Jak Wercyngetoryks został francuskim bohaterem i dlaczego Asterix jest tylko bajką?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-08-16",
     "link": "https://open.spotify.com/episode/7BwM74ovOJ0Vkf01NZVj8H",
-    "series_code": null
+    "series_code": "historia-francji"
   },
   {
     "title": "Najmniejsza mniejszość w Polsce, gość: Karolina Cicha // Za Rubieżą - 118",
-    "series_code": null,
+    "series": null,
     "description": "O czym śpiewają Karaimi? Karolinę możecie śledzić tu: https://www.facebook.com/karolinacichamusic Mecenasami pierwszej w historii Świata płyty z muzyką karaimską możecie zostać tu: https://zrzutka.pl/karaimska-mapa-muzyczna Strona Związku Karaimów Polskich tu: https://www.karaimi.org/",
     "date": "2021-08-12",
     "link": "https://open.spotify.com/episode/1IrfhzJ05BHxhbcMglPOVP",
@@ -5737,7 +5737,7 @@ const episodes = [
   },
   {
     "title": "Aleksandr Łukaszenka, gość: Małgorzata Nocuń // Za Rubieżą - 117",
-    "series_code": null,
+    "series": null,
     "description": "Jakim człowiekiem jest dyktator Białorusi?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-08-09",
     "link": "https://open.spotify.com/episode/7mnJzVXEdXBq4x7ZmkeWYl",
@@ -5745,7 +5745,7 @@ const episodes = [
   },
   {
     "title": "Czy historia Polski jest wyjątkowa? // Za Rubieżą - 116",
-    "series_code": null,
+    "series": null,
     "description": "Jak Polska wypada na tle innych krajów?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-08-05",
     "link": "https://open.spotify.com/episode/0hVrY6C6kmG2FJLW5rGxdS",
@@ -5753,7 +5753,7 @@ const episodes = [
   },
   {
     "title": "Antarktyda, gość Paweł Drozd // Za Rubieżą - 115",
-    "series_code": null,
+    "series": null,
     "description": "Czy nad Antarktydą latają Drozdy? Jak wygląda życie w Antarktyce i dlaczego tyle krajów się tam pcha?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-08-02",
     "link": "https://open.spotify.com/episode/6cx3bJxd9T8zsApTPV7BeF",
@@ -5761,7 +5761,7 @@ const episodes = [
   },
   {
     "title": "Papa Doc i voodoo // Za Rubieżą - 114",
-    "series_code": null,
+    "series": null,
     "description": "Jak się rządzi krajem przy pomocy voodoo?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-07-29",
     "link": "https://open.spotify.com/episode/1uLHA5cpwIyCv9Uc3gPUfv",
@@ -5769,15 +5769,15 @@ const episodes = [
   },
   {
     "title": "Konflikt izraelsko-palestyński // Za Rubieżą - 113",
-    "series_code": null,
+    "series": "Historia Izraela",
     "description": "Czy da się rozwiązać konflikt izraelsko-palestyński?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-07-26",
     "link": "https://open.spotify.com/episode/4Ygl0LSSrfNBmkHHX7nW5Z",
-    "series_code": null
+    "series_code": "historia-izraela"
   },
   {
     "title": "Republika, królestwo, cesarstwo Haiti // Za Rubieżą - 112",
-    "series_code": null,
+    "series": null,
     "description": "Jak potężne było niepodległe cesarstwo Haiti?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-07-22",
     "link": "https://open.spotify.com/episode/2dd2hWy1hjUTuwddMHTG5q",
@@ -5785,15 +5785,15 @@ const episodes = [
   },
   {
     "title": "Wszystkie wojny Izraela - Jom Kippur // Za Rubieżą - 111",
-    "series_code": null,
+    "series": "Historia Izraela",
     "description": "Jak Izrael stanął na krawędzi zagłady?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-07-19",
     "link": "https://open.spotify.com/episode/24pfoNKONURSJxXJIuYGo8",
-    "series_code": null
+    "series_code": "historia-izraela"
   },
   {
     "title": "Po co Polacy walczyli na Haiti? // Za Rubieżą - 110",
-    "series_code": null,
+    "series": null,
     "description": "Kim był czarny Napoleon i jak powstała pierwsza republika niewolnicza?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-07-15",
     "link": "https://open.spotify.com/episode/4nGEr7YYx0b0tbohqJC26v",
@@ -5801,15 +5801,15 @@ const episodes = [
   },
   {
     "title": "Wszystkie wojny Izraela Wojna sześciodniowa // Za Rubieżą - 109",
-    "series_code": null,
+    "series": "Historia Izraela",
     "description": "Jak kaktusy widzą świat?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-07-12",
     "link": "https://open.spotify.com/episode/5j88oYlO62yvLnenqqnwW3",
-    "series_code": null
+    "series_code": "historia-izraela"
   },
   {
     "title": "Kanał Stambulski i inne odpałay sułtana Recepa I // Za Rubieżą - 108",
-    "series_code": null,
+    "series": null,
     "description": "Jak się kupuje głosy za pieniądze wyborców?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-07-08",
     "link": "https://open.spotify.com/episode/5IcvMUXrDFOp9n5PXcpG6a",
@@ -5817,15 +5817,15 @@ const episodes = [
   },
   {
     "title": "Syjoniści i powstanie Izraela // Za Rubieżą - 107",
-    "series_code": null,
+    "series": "Historia Izraela",
     "description": "Jak Żydzi wrócili do Izraela?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-07-05",
     "link": "https://open.spotify.com/episode/4sPtj2Obx6WVidU1rlx9Mi",
-    "series_code": null
+    "series_code": "historia-izraela"
   },
   {
     "title": "Wojna w Abchazji // Za Rubieżą - 106",
-    "series_code": null,
+    "series": null,
     "description": "Jak się rozwiązuje konflikty na Kaukazie?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-07-01",
     "link": "https://open.spotify.com/episode/382eHxoDoy5kPEstErQBRk",
@@ -5833,7 +5833,7 @@ const episodes = [
   },
   {
     "title": "Muzułmańska Jerozolima // Za Rubieżą - 105",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego Jerozolima jest święta dla Muzłumanów?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-06-28",
     "link": "https://open.spotify.com/episode/6QkmqaTdmWUcSfoa1HvVqq",
@@ -5841,7 +5841,7 @@ const episodes = [
   },
   {
     "title": "Abchazja // Za Rubieżą - 104",
-    "series_code": null,
+    "series": null,
     "description": "Skąd się wziął konflikt w Abchazji?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-06-24",
     "link": "https://open.spotify.com/episode/6yDMJSomLHmBWF4GP1rhTk",
@@ -5849,15 +5849,15 @@ const episodes = [
   },
   {
     "title": "Starożytny Izrael // Za Rubieżą - 103",
-    "series_code": null,
+    "series": "Historia Izraela",
     "description": "Dlaczego Żydzi twierdzą, że Palestyna należy do nich?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-06-21",
     "link": "https://open.spotify.com/episode/7KxEoymQTWoASWVQRXBTNE",
-    "series_code": null
+    "series_code": "historia-izraela"
   },
   {
     "title": "Kim są Gruzini? // Za Rubieżą - 102",
-    "series_code": null,
+    "series": null,
     "description": "Jaka jest Gruzja od środka?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-06-17",
     "link": "https://open.spotify.com/episode/1hEMYiqYDhHWxJCrNl5yzQ",
@@ -5865,7 +5865,7 @@ const episodes = [
   },
   {
     "title": "Polacy z Wileńszczyzny, gość: Ewelina Mokrzecka // Za Rubieżą - 101",
-    "series_code": null,
+    "series": null,
     "description": "Czy Wilniucy czekają na powrót do Polski?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-06-07",
     "link": "https://open.spotify.com/episode/314cEAzIKFjzNskniVIywl",
@@ -5873,7 +5873,7 @@ const episodes = [
   },
   {
     "title": "Reaktor jądrowy w każdym pojeździe // Za Rubieżą - 100",
-    "series_code": null,
+    "series": null,
     "description": "Czy atomowy samolot może latać? A co, jeśliby zrobić samochód z reaktorem jądrowym?  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski",
     "date": "2021-06-03",
     "link": "https://open.spotify.com/episode/39tzvZzJuoJbrlUopEbOIs",
@@ -5881,7 +5881,7 @@ const episodes = [
   },
   {
     "title": "Zimbabwe - historia upadku // Za Rubieżą - 099",
-    "series_code": null,
+    "series": null,
     "description": "Jak Robert Mugabe zaorał Zimbabwe?",
     "date": "2021-05-31",
     "link": "https://open.spotify.com/episode/5wiOxfYE6kPYrjXPWpTZPD",
@@ -5889,7 +5889,7 @@ const episodes = [
   },
   {
     "title": "Złoty Świt, gość: reporter Dionis Sturis // Za Rubieżą - 098",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego w Grecji nie nastał złoty świt?",
     "date": "2021-05-27",
     "link": "https://open.spotify.com/episode/4AqlOZ7mZjM25mIXTHEVeT",
@@ -5897,7 +5897,7 @@ const episodes = [
   },
   {
     "title": "Rodezja // Za Rubieżą - 097",
-    "series_code": null,
+    "series": null,
     "description": "Jak sobie radziła niepodległa Rodezja?",
     "date": "2021-05-24",
     "link": "https://open.spotify.com/episode/7DOVQgcceeDEPP0Om3WlhL",
@@ -5905,15 +5905,15 @@ const episodes = [
   },
   {
     "title": "Stany - czym się różnią od siebie? // Za Rubieżą - 096",
-    "series_code": null,
+    "series": "Tymczasem w Stanach",
     "description": "Czy wszystkie Stany są takie same?",
     "date": "2021-05-20",
     "link": "https://open.spotify.com/episode/47ExeJgXTcpXzHXaWSMusN",
-    "series_code": null
+    "series_code": "tymczasem-w-stanach"
   },
   {
     "title": "Wojna wokół Cypru // Za Rubieżą - 095",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego wokół Cypru nadal nie ma spokoju?",
     "date": "2021-05-17",
     "link": "https://open.spotify.com/episode/3QNRZIQEyJgB7RXGYb9IyE",
@@ -5921,15 +5921,15 @@ const episodes = [
   },
   {
     "title": "Jak CIA zabijała Fidela Castro // Za Rubieżą - 094",
-    "series_code": null,
+    "series": "Cykl kubański",
     "description": "Jakie efekty dała praca Fabio Escallante?",
     "date": "2021-05-13",
     "link": "https://open.spotify.com/episode/7GjXscH676Pab3kYM122wJ",
-    "series_code": null
+    "series_code": "cykl-kubanski"
   },
   {
     "title": "Makarios, prezydent, który pozostał arcybiskupem // Za Rubieżą - 093",
-    "series_code": null,
+    "series": null,
     "description": "Jak Cypr osunął się w wojnę domową, zamach stanu, inwazję i podział na dwa państwa?",
     "date": "2021-05-10",
     "link": "https://open.spotify.com/episode/3At27NpHJ0bazjMiKhQklt",
@@ -5937,15 +5937,15 @@ const episodes = [
   },
   {
     "title": "Kryzys kubański, czyli kiedy świat był na krawędzi zagłady // Za Rubieżą - 092",
-    "series_code": null,
+    "series": "Cykl kubański",
     "description": "Jak Fidel Castro trząsł światem?",
     "date": "2021-05-06",
     "link": "https://open.spotify.com/episode/0bluo2Eu2DMeqPBNIfmh1L",
-    "series_code": null
+    "series_code": "cykl-kubanski"
   },
   {
     "title": "Makarios, arcybiskup który został prezydentem // Za Rubieżą - 091",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego na Cyprze była wojna?",
     "date": "2021-05-03",
     "link": "https://open.spotify.com/episode/1F6oKpaWpofiRVtDQC6KkX",
@@ -5953,15 +5953,15 @@ const episodes = [
   },
   {
     "title": "Rewolucja kubańska // Za Rubieżą - 090",
-    "series_code": null,
+    "series": "Cykl kubański",
     "description": "Jak Fidel Castro przejął władzę na Kubie?",
     "date": "2021-04-29",
     "link": "https://open.spotify.com/episode/3KSGSuF8UdeQ0bWcg5nPDN",
-    "series_code": null
+    "series_code": "cykl-kubanski"
   },
   {
     "title": "Kradzież stulecia, gość: Kamil Całus, analityk OSW // 089 - Za Rubieżą",
-    "series_code": null,
+    "series": null,
     "description": "Jak doszło do największej kradzieży w historii?",
     "date": "2021-04-26",
     "link": "https://open.spotify.com/episode/2rSEFN0xyErQwxqRUvJBts",
@@ -5969,15 +5969,15 @@ const episodes = [
   },
   {
     "title": "Jak zaczynał Fidel Castro // Za Rubieżą - 088",
-    "series_code": null,
+    "series": "Cykl kubański",
     "description": "Kim był młody Fidel Castro?",
     "date": "2021-04-22",
     "link": "https://open.spotify.com/episode/5pOthUAKKvPYlH2nwPGL2z",
-    "series_code": null
+    "series_code": "cykl-kubanski"
   },
   {
     "title": "Polonia mandżurska i Zdzisław Czendefu // Za Rubieżą - 087",
-    "series_code": null,
+    "series": null,
     "description": "Jak Polacy budowali Chiny, a jak Chińczyk walczył o Polskę?",
     "date": "2021-04-19",
     "link": "https://open.spotify.com/episode/2tW6axIaZOKrNHR6mOW1Mm",
@@ -5985,7 +5985,7 @@ const episodes = [
   },
   {
     "title": "Greccy komuniści // Za Rubieżą - 086",
-    "series_code": null,
+    "series": null,
     "description": "Jak nie wygrywać wojen domowych i jak potem żyć w obcym kraju?",
     "date": "2021-04-15",
     "link": "https://open.spotify.com/episode/1ItNmzdmuUuvHsvwjW8HzZ",
@@ -5993,7 +5993,7 @@ const episodes = [
   },
   {
     "title": "Kryzys Sueski // Za Rubieżą - 085",
-    "series_code": null,
+    "series": null,
     "description": "Jak Gamal pokonał Goliatów?",
     "date": "2021-04-12",
     "link": "https://open.spotify.com/episode/6TVGZTvMdqUFxgrCZSLJb8",
@@ -6001,7 +6001,7 @@ const episodes = [
   },
   {
     "title": "Greccy faszyści // Za Rubieżą - 084",
-    "series_code": null,
+    "series": null,
     "description": "Jak Grecja osunęła się w objęcia faszyzmu?",
     "date": "2021-04-08",
     "link": "https://open.spotify.com/episode/6yz7cSzBmsXvHaXY9hOHG7",
@@ -6009,7 +6009,7 @@ const episodes = [
   },
   {
     "title": "Krwawe diamenty // Za Rubieżą - 083",
-    "series_code": null,
+    "series": null,
     "description": "Jak dorobić się fortuny na wojnie, za wszelką cenę?",
     "date": "2021-04-05",
     "link": "https://open.spotify.com/episode/42M8SuO1i9bbV5NrRyFlb3",
@@ -6017,7 +6017,7 @@ const episodes = [
   },
   {
     "title": "Historia kontenera morskiego // Za Rubieżą - 082",
-    "series_code": null,
+    "series": null,
     "description": "Jak jeden wynalazek dał światowemu handlu więcej niż wszystkie umowy wolnocłowe",
     "date": "2021-04-01",
     "link": "https://open.spotify.com/episode/3aDLUnoe0ihYkQjXigCZyM",
@@ -6025,7 +6025,7 @@ const episodes = [
   },
   {
     "title": "Królestwo Grecji // Za Rubieżą - 081",
-    "series_code": null,
+    "series": null,
     "description": "Jak jedna małpa zmieniła losy świata?",
     "date": "2021-03-29",
     "link": "https://open.spotify.com/episode/4cakNlE6LyRcdxh6ny86mB",
@@ -6033,7 +6033,7 @@ const episodes = [
   },
   {
     "title": "Jamajka // Za Rubieżą - 080",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego na Jamajce jest tyle przemocy?",
     "date": "2021-03-25",
     "link": "https://open.spotify.com/episode/2oOk3iU2y6UsG4TlB0B3uE",
@@ -6041,7 +6041,7 @@ const episodes = [
   },
   {
     "title": "Jak Grecja zdobyła niepodległość? // Za Rubieżą - 079",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego Grecy nie chcieli już być wiernymi poddanymi Sułtana?",
     "date": "2021-03-22",
     "link": "https://open.spotify.com/episode/4w78Rk15IDSdXO90ZUjQ0E",
@@ -6049,7 +6049,7 @@ const episodes = [
   },
   {
     "title": "Czeczenia // Za Rubieżą - 078",
-    "series_code": null,
+    "series": null,
     "description": "Fenomen Czeczenii - ani jej pokonać, ani kontrolować.",
     "date": "2021-03-19",
     "link": "https://open.spotify.com/episode/4NPQwooZzmcLoqeZdi3kip",
@@ -6057,7 +6057,7 @@ const episodes = [
   },
   {
     "title": "Kazimierz Nowak, najwybitniejszy polski podróżnik // Za Rubieżą - 077",
-    "series_code": null,
+    "series": null,
     "description": "Jak pionier polskiego reportażu zrobił 40 000 km rowerem i pieszo przez Afrykę.",
     "date": "2021-03-15",
     "link": "https://open.spotify.com/episode/672ZmW2k57cSh8QyI7XjtP",
@@ -6065,7 +6065,7 @@ const episodes = [
   },
   {
     "title": "Republika Teksasu // Za Rubieżą - 076",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego Teksas chadza własną drogą?",
     "date": "2021-03-11",
     "link": "https://open.spotify.com/episode/3KizyBwkBECeiqep82z4sH",
@@ -6073,7 +6073,7 @@ const episodes = [
   },
   {
     "title": "Deng Xiaoping i transformacja Chin // Za Rubieżą - 075",
-    "series_code": null,
+    "series": null,
     "description": "Kim był najważniejszy przywódca współczesnych Chin?",
     "date": "2021-03-08",
     "link": "https://open.spotify.com/episode/50DkgySi4ngvy6pf7da5WV",
@@ -6081,7 +6081,7 @@ const episodes = [
   },
   {
     "title": "Co oznaczają flagi państwowe? // Za Rubieżą - 074",
-    "series_code": null,
+    "series": null,
     "description": "Czy gwiazdki, paski, orzełki i kolory mają jakieś znaczenie?",
     "date": "2021-03-04",
     "link": "https://open.spotify.com/episode/7rQP9cAK2K6GULP7YDwgFw",
@@ -6089,7 +6089,7 @@ const episodes = [
   },
   {
     "title": "Mao Zedong // Za Rubieżą - 073",
-    "series_code": null,
+    "series": null,
     "description": "Jak rządził najkrwawszy władca w historii świata?",
     "date": "2021-03-01",
     "link": "https://open.spotify.com/episode/1WfOmNsdgc5cDDtzDEEBDw",
@@ -6097,7 +6097,7 @@ const episodes = [
   },
   {
     "title": "Erytrea, drugi najgorszy reżim świata // Za Rubieżą - 072",
-    "series_code": null,
+    "series": null,
     "description": "Czym jest Korea Północna Afryki?",
     "date": "2021-02-25",
     "link": "https://open.spotify.com/episode/1ixyFVVU1SsfG5kQvYTqZm",
@@ -6105,7 +6105,7 @@ const episodes = [
   },
   {
     "title": "Jak komuniści zdobyli władzę w Chinach // Za rubieżą - 071",
-    "series_code": null,
+    "series": null,
     "description": "Czy to już koniec cierpień Chińczyków?",
     "date": "2021-02-22",
     "link": "https://open.spotify.com/episode/10PCM2QqSsPwrILM3aeUmz",
@@ -6113,7 +6113,7 @@ const episodes = [
   },
   {
     "title": "Nawalny i inni wrogowie Putina // Za Rubieżą - 070",
-    "series_code": null,
+    "series": null,
     "description": "Kogo Władimir Władimirowicz posyłał do krainy wiecznych łowów?",
     "date": "2021-02-18",
     "link": "https://open.spotify.com/episode/22NE5AlM7inO7S0VpPtKhT",
@@ -6121,7 +6121,7 @@ const episodes = [
   },
   {
     "title": "Wuhan - kolebka rewolucji // Za Rubieżą - 069",
-    "series_code": null,
+    "series": null,
     "description": "Jak wydarzenia w Wuhan zmieniły Chiny?",
     "date": "2021-02-15",
     "link": "https://open.spotify.com/episode/1FLyUsmfstcHFCUOWHt38m",
@@ -6129,7 +6129,7 @@ const episodes = [
   },
   {
     "title": "Pablo Escobar // Za Rubieżą - 068",
-    "series_code": null,
+    "series": null,
     "description": "Jak koka zmieniła świat?",
     "date": "2021-02-11",
     "link": "https://open.spotify.com/episode/7F3KvjXu9pBwyJY8pJwpCN",
@@ -6137,7 +6137,7 @@ const episodes = [
   },
   {
     "title": "Wojny Opiumowe i upadek Chin // Za Rubieżą - 067",
-    "series_code": null,
+    "series": null,
     "description": "Jak doszło do wieku upokorzenia Chin?",
     "date": "2021-02-08",
     "link": "https://open.spotify.com/episode/2syoUmTFeXEXEpWBu9QoA8",
@@ -6145,7 +6145,7 @@ const episodes = [
   },
   {
     "title": "Aung San Suu Kyi, pani Birma // Za Rubieżą - 066",
-    "series_code": null,
+    "series": null,
     "description": "Czy jest nadzieja dla Birmy?",
     "date": "2021-02-04",
     "link": "https://open.spotify.com/episode/1obWx6qebCQHnNNKKf318A",
@@ -6153,7 +6153,7 @@ const episodes = [
   },
   {
     "title": "World Trade Center, Talibowie i Afganistan // Za Rubieżą 065",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego George W. Bush zaniemówił na 45 minut i co ma z tym wspólnego Afganistan i pewien znany Saudyjczyk?",
     "date": "2021-02-01",
     "link": "https://open.spotify.com/episode/49sU9oLfUq6bJtMr2U7JpP",
@@ -6161,7 +6161,7 @@ const episodes = [
   },
   {
     "title": "Wojna afgańska // Za Rubieżą - 064",
-    "series_code": null,
+    "series": null,
     "description": "Jak wyglądał ostatni konflikt zimnej wojny?",
     "date": "2021-01-28",
     "link": "https://open.spotify.com/episode/7kNJ47GScagfKpBdo0sQHI",
@@ -6169,7 +6169,7 @@ const episodes = [
   },
   {
     "title": "Baader-Meinhof // Za Rubieżą - 063",
-    "series_code": null,
+    "series": null,
     "description": "Jakimi terrorystami byli niemieccy studenci?",
     "date": "2021-01-25",
     "link": "https://open.spotify.com/episode/3BZdhbF4yjUAst5itnhYey",
@@ -6177,7 +6177,7 @@ const episodes = [
   },
   {
     "title": "Królestwo Hawajów // Za Rubieżą - 062",
-    "series_code": null,
+    "series": null,
     "description": "Co się dzieje, kiedy wpuścisz bogatych imigrantów?",
     "date": "2021-01-21",
     "link": "https://open.spotify.com/episode/09PwEvq5C7zUJSUCpjrGyA",
@@ -6185,7 +6185,7 @@ const episodes = [
   },
   {
     "title": "Terrorysta, który został premierem // Za Rubieżą - 061",
-    "series_code": null,
+    "series": null,
     "description": "Czy terroryzm może mieć funkcję państwowotwórczą?",
     "date": "2021-01-18",
     "link": "https://open.spotify.com/episode/0ZAa21zwoLsdpYm36pWFKH",
@@ -6193,7 +6193,7 @@ const episodes = [
   },
   {
     "title": "Cesarz Bokassa I // Za Rubieżą - 060",
-    "series_code": null,
+    "series": null,
     "description": "Kim był afrykański Napoleon?",
     "date": "2021-01-14",
     "link": "https://open.spotify.com/episode/544eqY2onyNKt4UsKGrLlS",
@@ -6201,7 +6201,7 @@ const episodes = [
   },
   {
     "title": "Pierwsi terroryści // Za Rubieżą - 059",
-    "series_code": null,
+    "series": null,
     "description": "Kto i dlaczego zabił cara Aleksandra II?",
     "date": "2021-01-11",
     "link": "https://open.spotify.com/episode/6FygJGBR9EXgzetfnQyFhe",
@@ -6209,7 +6209,7 @@ const episodes = [
   },
   {
     "title": "Tajlandia, gość Urszula Jabłońska, autorka: \"Człowiek w przystępnej cenie\" // Za Rubieżą - 058",
-    "series_code": null,
+    "series": null,
     "description": "Jak wygląda Tajlandia od kuchni?",
     "date": "2021-01-07",
     "link": "https://open.spotify.com/episode/70njqbiixoLA6K9CUv6LbO",
@@ -6217,7 +6217,7 @@ const episodes = [
   },
   {
     "title": "Ojczyzna Arabskiej Wiosny // Za Rubieżą - 057",
-    "series_code": null,
+    "series": null,
     "description": "Jak śmierć Muhammada Bouaziziego zmieniła Tunezję i świat?",
     "date": "2021-01-04",
     "link": "https://open.spotify.com/episode/1rtae1XQDioFj1qNHHjVCC",
@@ -6225,7 +6225,7 @@ const episodes = [
   },
   {
     "title": "Ku Klux Klan i jego koniec // Za Rubieżą - 056",
-    "series_code": null,
+    "series": null,
     "description": "Jak D. C. Stephenson zaorał Klan?",
     "date": "2020-12-31",
     "link": "https://open.spotify.com/episode/48RJOxTFgk99bmmjSTXST4",
@@ -6233,7 +6233,7 @@ const episodes = [
   },
   {
     "title": "KKK // Za Rubieżą - 055",
-    "series_code": null,
+    "series": null,
     "description": "Jak film stworzył potwora.",
     "date": "2020-12-28",
     "link": "https://open.spotify.com/episode/5IV7Va3SaiS5bbV6kcfKiJ",
@@ -6241,7 +6241,7 @@ const episodes = [
   },
   {
     "title": "Co się stało 24 grudnia? // Za Rubieżą - 054",
-    "series_code": null,
+    "series": null,
     "description": "Co się stało 24 grudnia?",
     "date": "2020-12-24",
     "link": "https://open.spotify.com/episode/1FKZwXCuzNgPwb1QAOS0h4",
@@ -6249,7 +6249,7 @@ const episodes = [
   },
   {
     "title": "Lichtenstein, najbogatsze państwo świata // Za Rubieżą - 053",
-    "series_code": null,
+    "series": null,
     "description": "Jak się robi państwo z kilku wiosek?",
     "date": "2020-12-21",
     "link": "https://open.spotify.com/episode/3k5vAX6EEX7FMRpEq7zkDU",
@@ -6257,7 +6257,7 @@ const episodes = [
   },
   {
     "title": "Boko Haram // Za Rubieżą - 052",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego nie można powstrzymać terroru w Nigerii?",
     "date": "2020-12-17",
     "link": "https://open.spotify.com/episode/5cUlLj8uMQcZfjobpxTgfz",
@@ -6265,7 +6265,7 @@ const episodes = [
   },
   {
     "title": "Cesarstwo Meksyku kontratakuje // Za Rubieżą - 051",
-    "series_code": null,
+    "series": null,
     "description": "Trzech ludzi, którzy zdefiniowali Meksykańskie Stany Zjednoczone.",
     "date": "2020-12-14",
     "link": "https://open.spotify.com/episode/3uCRoXRVYzmnrQDRnHVOMk",
@@ -6273,7 +6273,7 @@ const episodes = [
   },
   {
     "title": "Jak powstał Meksyk? // Za Rubieżą - 050",
-    "series_code": null,
+    "series": null,
     "description": "Jak orzeł zjadł węża.",
     "date": "2020-12-10",
     "link": "https://open.spotify.com/episode/5TFCTPfsnB5LhRtyTrg341",
@@ -6281,7 +6281,7 @@ const episodes = [
   },
   {
     "title": "Najlepszy polski terrorysta // Za Rubieżą - 049",
-    "series_code": null,
+    "series": null,
     "description": "American dream a rebours.",
     "date": "2020-12-07",
     "link": "https://open.spotify.com/episode/5DlkQvhNmX4IIOkINwEmkn",
@@ -6289,7 +6289,7 @@ const episodes = [
   },
   {
     "title": "Bangladesz a branża odzieżowa. Gość: Marek Rabij, autor \"Życie na miarę\". // Za Rubieżą - 048",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego możemy tanio kupić ciuchy w Polsce?",
     "date": "2020-12-03",
     "link": "https://open.spotify.com/episode/391KmlhNM11r34BeA0QRBe",
@@ -6297,7 +6297,7 @@ const episodes = [
   },
   {
     "title": "Historia praw kobiet // Za Rubieżą - 047",
-    "series_code": null,
+    "series": null,
     "description": "Jak kobiety dostały prawa wyborcze i czy da się to jeszcze odkręcić?",
     "date": "2020-11-30",
     "link": "https://open.spotify.com/episode/4vvVQs9uJYsRAEA5tCcSMM",
@@ -6305,7 +6305,7 @@ const episodes = [
   },
   {
     "title": "Kobiety, które uratowały Liberię // Za Rubieżą - 046",
-    "series_code": null,
+    "series": null,
     "description": "Jak dwie kobiety uratowały cały kraj przed zagładą.",
     "date": "2020-11-26",
     "link": "https://open.spotify.com/episode/1DgvXt3umtdODeCUliRBlE",
@@ -6313,7 +6313,7 @@ const episodes = [
   },
   {
     "title": "Maia Sandu, ostatnia nadzieja Mołdawii // Za Rubieżą - 045",
-    "series_code": null,
+    "series": null,
     "description": "Kim jest ostatnia szansa Republiki Mołdawii?",
     "date": "2020-11-23",
     "link": "https://open.spotify.com/episode/7164y1lTcD6BGiOfGTUCjs",
@@ -6321,7 +6321,7 @@ const episodes = [
   },
   {
     "title": "Ormianie we współczesnej Turcji // Za Rubieżą - 044",
-    "series_code": null,
+    "series": null,
     "description": "Co zostało po ludobójstwie Ormian?",
     "date": "2020-11-19",
     "link": "https://open.spotify.com/episode/0ZmRqzIv3VOvzmYNY6MRsI",
@@ -6329,7 +6329,7 @@ const episodes = [
   },
   {
     "title": "Ludobójstwo Ormian // Za Rubieżą - 043",
-    "series_code": null,
+    "series": null,
     "description": "Jak doszło do największej zbrodni, jaką znał ówczesny świat.",
     "date": "2020-11-16",
     "link": "https://open.spotify.com/episode/3GewASpqLbSluRwTw3f1NG",
@@ -6385,7 +6385,7 @@ const episodes = [
   },
   {
     "title": "Rosyjska Ameryka // Za Rubieżą - 036",
-    "series_code": null,
+    "series": null,
     "description": "Jak Imperium Rosyjskie w sojuszu z Królestwem Hawajów i przy pomocy Hiszpanów kolonizowało Amerykę.",
     "date": "2020-10-22",
     "link": "https://open.spotify.com/episode/2wL0Wg9dc8cDGyWGVEZPFu",
@@ -6393,7 +6393,7 @@ const episodes = [
   },
   {
     "title": "Bułgaria, gość: Magdalena Genow, autorka: \"Bułgaria. Złoto i rakija\" // Za Rubieżą - 035",
-    "series_code": null,
+    "series": null,
     "description": "Skąd się wzięła Bułgaria i Bułgarzy?",
     "date": "2020-10-19",
     "link": "https://open.spotify.com/episode/2afugFQ9VtINM5A2Wy9u6i",
@@ -6425,7 +6425,7 @@ const episodes = [
   },
   {
     "title": "Wojna o Karabach // Za Rubieżą - 031",
-    "series_code": null,
+    "series": null,
     "description": "Kto, z kim i dlaczego walczy o Karabach? Kiedy zaczął się ten konflikt i dlaczego NIE trzydzieści lat temu.",
     "date": "2020-10-05",
     "link": "https://open.spotify.com/episode/7IoyYu66L3CTxYezLgfrB2",
@@ -6433,7 +6433,7 @@ const episodes = [
   },
   {
     "title": "Hiszpańska Wojna Domowa, gość: Katarzyna Kobylarczyk, autorka: \"Strup. Hiszpania rozdrapuje rany\" // Za Rubieżą - 030",
-    "series_code": null,
+    "series": null,
     "description": "Kto z kim i dlaczego walczył w hiszpańskiej wojnie domowej, kto im pomagał i jakie to ma konsekwencje dziś?",
     "date": "2020-10-01",
     "link": "https://open.spotify.com/episode/1CureSl5nkNqMZys0CnIeJ",
@@ -6441,7 +6441,7 @@ const episodes = [
   },
   {
     "title": "Muzłumańska Hiszpania. Gość: Aleksanda Lipczak, autorka: \"Lajla znaczy noc\" // Za Rubieżą - 029",
-    "series_code": null,
+    "series": null,
     "description": "Jak wyglądało 781 lat muzułmańskiej obecności na półwyspie Iberyjskim i co po niej zostało?",
     "date": "2020-09-28",
     "link": "https://open.spotify.com/episode/6uJa9vKPVfhhqRrgP4k4ti",
@@ -6449,7 +6449,7 @@ const episodes = [
   },
   {
     "title": "Hiroo Onoda - ostatni samuraj // Za Rubieżą - 028",
-    "series_code": null,
+    "series": null,
     "description": "Imperialna Japonia i ostatni samuraj.",
     "date": "2020-09-24",
     "link": "https://open.spotify.com/episode/3nGToA9lm4b3Qqe4A9ogXY",
@@ -6457,7 +6457,7 @@ const episodes = [
   },
   {
     "title": "Tuvalu a polityka światowa // Za Rubieżą - 027",
-    "series_code": null,
+    "series": null,
     "description": "Wulkan i chińska wojna domowa, tuńczyk jako fundament gospodarki oraz jaką polityczną siłę ma kraj wielkości dużej wsi?",
     "date": "2020-09-21",
     "link": "https://open.spotify.com/episode/3Z9ziYN810laNL7aKUJddZ",
@@ -6465,7 +6465,7 @@ const episodes = [
   },
   {
     "title": "Namibia cz 2 - Apartheid i niepodległość // Za Rubieżą - 026",
-    "series_code": null,
+    "series": null,
     "description": "Jak wyglądała apartheid w Namibii? Co to była wojna graniczna? Jak powstała Namibia?",
     "date": "2020-09-17",
     "link": "https://open.spotify.com/episode/6D9MzMj7IyDjHaMv7z3RRK",
@@ -6473,7 +6473,7 @@ const episodes = [
   },
   {
     "title": "Namibia cz 1 - Niemiecka Afryka Południowo-Zachodnia // Za Rubieżą - 025",
-    "series_code": null,
+    "series": null,
     "description": "Jak wyglądała niemiecka kolonizacja w Afryce? Jak powstały prototypy obozów koncentracyjnych? Co się stało z Niemcami w Afryce?",
     "date": "2020-09-14",
     "link": "https://open.spotify.com/episode/7029sqYl0XaLCPr40T601A",
@@ -6481,7 +6481,7 @@ const episodes = [
   },
   {
     "title": "Republika bananowa // Za Rubieżą - 024",
-    "series_code": null,
+    "series": null,
     "description": "Gzie leży republika bananowa? Jak banany wpływają na politykę? Co ma z tym wspólnego Mołdawia?",
     "date": "2020-09-10",
     "link": "https://open.spotify.com/episode/7vgssvXt2rm1wFC9fF1AOq",
@@ -6489,7 +6489,7 @@ const episodes = [
   },
   {
     "title": "Historia Portugalii, gość: Maria Dybcio, reporterka. // Za Rubieżą - 023",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego w Portugalii komuniści kojarzą się dobrze, a księża źle? Co to jest saudade? Czy można się nie zakochać w Portugalii?",
     "date": "2020-09-07",
     "link": "https://open.spotify.com/episode/5mfBm5xrJVgoBUH7TPFNYo",
@@ -6497,7 +6497,7 @@ const episodes = [
   },
   {
     "title": "Biografia złego człowieka: Kaczynski // Za Rubieżą - 022",
-    "series_code": null,
+    "series": null,
     "description": "Jak jeden człowiek bez konta w banku i prawa jazdy zabrał się za wzniecanie rewolucji? Jaką rolę odegrał w tym jego brat wraz z żoną?",
     "date": "2020-09-03",
     "link": "https://open.spotify.com/episode/4Vmy39cFhCFS5qjzwpist0",
@@ -6505,7 +6505,7 @@ const episodes = [
   },
   {
     "title": "Historia Libanu cz 2 - Wojna domowa i eksplozja w Bejrucie // Za Rubieżą - 021",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego libańscy politycy wysłali swoich bojówkarzy na wojnę domową i jak się skleja kraj po wojnie domowej, kiedy każdy ma ludzi pod bronią gotowych rozwalić kruchy porządek. Jak taki nierząd doprowadza do zniszczenia stolicy?",
     "date": "2020-08-31",
     "link": "https://open.spotify.com/episode/311NhLml7v4pOZHkjTbUpa",
@@ -6513,7 +6513,7 @@ const episodes = [
   },
   {
     "title": "Historia Libanu cz 1 - Jak powstał Liban? // Za Rubieżą - 020",
-    "series_code": null,
+    "series": null,
     "description": "Skąd się wziął Liban i dlaczego osunął się w wojnę domową? Jak się zlepia kraj z 18 wyznań i jak on (nie) działa?",
     "date": "2020-08-27",
     "link": "https://open.spotify.com/episode/64qoNzyTQF7F3W0lE0DKAx",
@@ -6521,7 +6521,7 @@ const episodes = [
   },
   {
     "title": "Ujgurzy i Sinciang // Za Rubieżą - 019",
-    "series_code": null,
+    "series": null,
     "description": "Skąd się wzięli Ujgurzy w Chinach i dlaczego są prześladowani?",
     "date": "2020-08-24",
     "link": "https://open.spotify.com/episode/1pCAJoA2Gmwhsa80M5O4kq",
@@ -6577,7 +6577,7 @@ const episodes = [
   },
   {
     "title": "Q&A - autor o sobie słów kilka",
-    "series_code": null,
+    "series": null,
     "description": "Kim jestem i dlaczego nagrywam \"Lekcję historii\" i \"Za Rubieżą\"?",
     "date": "2020-08-01",
     "link": "https://open.spotify.com/episode/0qzOg5ObpuViOldFolLVvO",
@@ -6585,7 +6585,7 @@ const episodes = [
   },
   {
     "title": "Leoind Ilicz Breżniew // Za Rubieżą - 012",
-    "series_code": null,
+    "series": null,
     "description": "Kto przewodził ZSRR w zenicie jego potęgi?",
     "date": "2020-07-30",
     "link": "https://open.spotify.com/episode/5pXHrrOO4kZDfSqGJBnkve",
@@ -6593,7 +6593,7 @@ const episodes = [
   },
   {
     "title": "Nomadyzm i vanlife // Za Rubieżą - 011",
-    "series_code": null,
+    "series": null,
     "description": "Czym był nomadyzm kiedyś, a czym jest dziś? Skąd się wziął #vanlife?",
     "date": "2020-07-27",
     "link": "https://open.spotify.com/episode/7BSTxfzXa9HYzPFA8zQM9F",
@@ -6601,7 +6601,7 @@ const episodes = [
   },
   {
     "title": "Na rubieży. Gość: Ewa Pluta, autorka tekstów o życiu. // Za Rubieżą - 010",
-    "series_code": null,
+    "series": null,
     "description": "Jak się formowała nasza wschodnia granica i jak się na niej żyje?",
     "date": "2020-07-23",
     "link": "https://open.spotify.com/episode/1DoB68v5ORV0IwIuNWABW7",
@@ -6633,7 +6633,7 @@ const episodes = [
   },
   {
     "title": "Polska kolonizacja Brazylii // Za Rubieżą - 006",
-    "series_code": null,
+    "series": null,
     "description": "Jak Polacy kolonizowali dzikie ostępy Brazylii?",
     "date": "2020-07-09",
     "link": "https://open.spotify.com/episode/63MVvN2mSQTgFnJMvUdSp7",
@@ -6641,7 +6641,7 @@ const episodes = [
   },
   {
     "title": "Jak myślą Holendrzy? Gość: Kamil Bałuk, autor \"Wszystkie dzieci Louisa\". // Za Rubieżą - 005",
-    "series_code": null,
+    "series": null,
     "description": "Jak historia ukształtowała holenderski sposób myślenia i jak różny jest on od polskiego?",
     "date": "2020-07-06",
     "link": "https://open.spotify.com/episode/4gsvq81Tf1VrR4eAMNdNKd",
@@ -6657,7 +6657,7 @@ const episodes = [
   },
   {
     "title": "Wojna falklandzka // Za Rubieżą - 003",
-    "series_code": null,
+    "series": null,
     "description": "Dlaczego Argentyna chciała odebrać Wielkiej Brytanii wyspy, gdzie nie było nic prócz owiec?",
     "date": "2020-06-29",
     "link": "https://open.spotify.com/episode/7KHVmJtrFgRiJsFjUjVXq4",
@@ -6665,7 +6665,7 @@ const episodes = [
   },
   {
     "title": "Parada zwycięstwa w Moskwie // Za Rubieżą - 002",
-    "series_code": null,
+    "series": null,
     "description": "Skąd się wziął zwyczaj organizowania parad zwycięstwa i co one dziś oznaczają?",
     "date": "2020-06-26",
     "link": "https://open.spotify.com/episode/7kGArMhLenB2oHIGjPpmyp",
@@ -6673,17 +6673,10 @@ const episodes = [
   },
   {
     "title": "Finlandia. Za rubieżą Skandynawii? Gość: Małgorzata SIdz, autorka \"Kocie chrzciny. Lato i zima w Finlandii\". // Za Rubieżą - 001",
-    "series_code": null,
+    "series": null,
     "description": "Co Finowie myślą o swojej historii? Czym jest sisu? Jak Finowie ograli Związek Radziecki?",
     "date": "2020-06-22",
     "link": "https://open.spotify.com/episode/5FEGSpToGV0dPlZ5EiExXb",
-    "series_code": null
-  },
-  {
-    "title": "",
-    "series_code": null,
-    "description": "",
-    "date": null,
     "series_code": null
   }
 ];
@@ -6697,16 +6690,28 @@ const series = [
   { "series_code": "zle-ksiazki", "title": "Złe książki" },
   { "series_code": "ulalo-mi-sie", "title": "Ulało mi się" },
   { "series_code": "zrozumiec-rosje", "title": "Zrozumieć Rosję" },
+  { "series_code": "tymczasem-w-stanach", "title": "Tymczasem w Stanach" },
   { "series_code": "relacja-z-turcji", "title": "Relacja z Turcji 🇹🇷" },
   { "series_code": "w-zwiazku-z-powyzszym", "title": "W związku z powyższym" },
+  { "series_code": "wojny-hybrydowe", "title": "Wojny Hybrydowe" },
+  { "series_code": "historia-albanii", "title": "Historia Albanii 🇦🇱" },
   { "series_code": "historia-austro-wegier", "title": "Historia Austro-Węgier 🇦🇹🇭🇺" },
+  { "series_code": "historia-arabii", "title": "Historia Arabii 🇸🇦" },
   { "series_code": "historia-argentyny", "title": "Historia Argentyny 🇦🇷" },
+  { "series_code": "historia-brazylii", "title": "Historia Brazylii 🇧🇷" },
+  { "series_code": "historia-francji", "title": "Historia Francji 🇫🇷" },
+  { "series_code": "historia-iranu", "title": "Historia Iranu 🇮🇷" },
+  { "series_code": "historia-izraela", "title": "Historia Izraela 🇮🇱" },
   { "series_code": "historia-japonii", "title": "Historia Japonii 🇯🇵" },
-  { "series_code": "historia-jugoslawii", "title": "Historia Jugosławii 🇦🇱" },
+  { "series_code": "historia-jugoslawii", "title": "Historia Jugosławii" },
   { "series_code": "historia-kongo", "title": "Historia Kongo 🇨🇩" },
+  { "series_code": "historia-korei", "title": "Historia Korei 🇰🇷🇰🇵" },
+  { "series_code": "cykl-kubanski", "title": "Cykl Kubański 🇨🇺" },
   { "series_code": "historia-moldawii", "title": "Historia Mołdawii 🇲🇩" },
+  { "series_code": "historia-mongolow", "title": "Historia Mongołów 🇲🇳" },
   { "series_code": "historia-peru", "title": "Historia Peru 🇵🇪" },
   { "series_code": "historia-rpa", "title": "Historia RPA 🇿🇦" },
   { "series_code": "historia-slowacji", "title": "Historia Słowacji 🇸🇰" },
   { "series_code": "historia-ukrainy", "title": "Historia Ukrainy 🇺🇦" },
+  { "series_code": "historia-wenezueli", "title": "Historia Wenezueli 🇻🇪" },
 ];
