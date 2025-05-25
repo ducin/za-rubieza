@@ -44,8 +44,15 @@ function init() {
   window.addEventListener('scroll', handleScroll);
   
   // Populate series dropdown
-  populateSeriesSelect(series, handleSeriesChange);
-  
+  populateSeriesSelect(series, handleSeriesChangeWithPermalink);
+
+  // --- Permalink support for series select ---
+  // On page load, set select from hash if present
+  setSeriesSelectFromHash();
+  // Listen for hash changes (browser navigation)
+  window.addEventListener('hashchange', setSeriesSelectFromHash);
+  // --- End permalink support ---
+
   // Initialize filtered episodes
   state.filteredEpisodes = [...state.episodes];
   
@@ -81,8 +88,14 @@ function handleSearchInput() {
 /**
  * Handle series selection change
  */
-function handleSeriesChange() {
+function handleSeriesChangeWithPermalink() {
   state.selectedSeries = seriesSelect.value;
+  // Update hash in URL
+  if (seriesSelect.value) {
+    window.location.hash = encodeURIComponent(seriesSelect.value);
+  } else {
+    window.location.hash = '';
+  }
   updateFilters();
 }
 
@@ -209,6 +222,26 @@ function renderEpisodes() {
   } else {
     paginationContainer.classList.remove('hidden');
   }
+}
+
+// --- Permalink helpers ---
+function setSeriesSelectFromHash() {
+  const hash = window.location.hash.substring(1); // remove '#'
+  if (hash) {
+    // Check if hash matches a valid series_code
+    const optionExists = [...seriesSelect.options].some(opt => opt.value === hash);
+    if (optionExists) {
+      seriesSelect.value = hash;
+      state.selectedSeries = hash;
+    } else {
+      seriesSelect.value = '';
+      state.selectedSeries = '';
+    }
+  } else {
+    seriesSelect.value = '';
+    state.selectedSeries = '';
+  }
+  updateFilters();
 }
 
 // Initialize the application when the DOM is ready

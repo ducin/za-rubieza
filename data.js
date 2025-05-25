@@ -6649,11 +6649,11 @@ const episodes = [
   },
   {
     "title": "Historia Mołdawii // Za Rubieżą - 004",
-    "series_code": "Historia Mołdawii",
+    "series": null,
     "description": "Skąd się wzięła Republika Mołdawii?",
     "date": "2020-07-02",
     "link": "https://open.spotify.com/episode/4QEJZZ0h4rdmRd4FQ8UE9P",
-    "series_code": "historia-moldawii"
+    "series_code": null,
   },
   {
     "title": "Wojna falklandzka // Za Rubieżą - 003",
@@ -6707,7 +6707,6 @@ const series = [
   { "series_code": "historia-kongo", "title": "Historia Kongo 🇨🇩" },
   { "series_code": "historia-korei", "title": "Historia Korei 🇰🇷🇰🇵" },
   { "series_code": "cykl-kubanski", "title": "Cykl Kubański 🇨🇺" },
-  { "series_code": "historia-moldawii", "title": "Historia Mołdawii 🇲🇩" },
   { "series_code": "historia-mongolow", "title": "Historia Mongołów 🇲🇳" },
   { "series_code": "historia-peru", "title": "Historia Peru 🇵🇪" },
   { "series_code": "historia-rpa", "title": "Historia RPA 🇿🇦" },
