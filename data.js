@@ -3229,7 +3229,7 @@ const episodes = [
     "description": "Książka po angielsku tutaj: https://iranwire.com/en/features/67382/  Zapraszam na moje soszjale, gdzie wrzucam dodatkowe materiały: https://www.instagram.com/zarubieza/ https://www.facebook.com/Za-Rubie%C5%BC%C4%85-109949267414211/ I jeszcze twitter: https://twitter.com/mioszszymaski2  Jeśli chcesz wesprzeć moją twórczość, to zapraszam tutaj: https://patronite.pl/miloszszymanski buycoffee.to/miloszszymanski",
     "date": "2023-02-15",
     "link": "https://open.spotify.com/episode/6a6oRBdHPt63RccJyPhFZg",
-    "series_code": "series_code": "historia-iranu"
+    "series_code": "historia-iranu"
   },
   {
     "title": "Największy od dawna sukces orków // Ulało mi się - 114",
